@@ -18,11 +18,13 @@ Note: Data used in the projects is for demonstration and educational purposes on
   This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018. The data was collected from   various e-commerce merchants as part of a research study. Further details can be found on the following link 
   https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset
   
-  
- 
-### :palm_tree: Machine Learning
+ ### :palm_tree: Machine Learning
 
 * [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. [Check this app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py). The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
+
+* [CNN_CIFAR100](https://github.com/mazqoty/CNN_CIFAR100) The objective of this project is study and build a convolutional neural network model that can correctly recognize and classify colored images of objects into one of the 100 available classes for CIFAR-100 dataset.
+This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.cs.toronto.edu/~kriz/cifar.html
+
 ### :palm_tree: Web Scraping
 
 * [Web Scraping Ecommerce Website](https://github.com/mazqoty/Scraping-Carrefour-E-commerce) Over 5K product data scraped from Carrefour including Images.
