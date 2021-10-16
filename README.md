@@ -34,7 +34,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
 
 ### :palm_tree: Others
 * [Bulk Image Downloader](https://github.com/mazqoty/Image-Downloader) It downloads the images in bulk. Image httpS links to be provided in .xls file.
-  Docker Repo: (docker pull mazqoty/image_downloader:v1)
+  [Docker Repo Pull](docker pull mazqoty/image_downloader:v1)
 
 
 <!---
