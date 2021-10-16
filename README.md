@@ -22,8 +22,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
  
 ### :palm_tree: Machine Learning
 
-* [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
-[Check the app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py)
+* [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. [Check this app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py). The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 ### :palm_tree: Web Scraping
 
 * [Web Scraping Ecommerce Website](https://github.com/mazqoty/Scraping-Carrefour-E-commerce) Over 5K product data scraped from Carrefour including Images.
