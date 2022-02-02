@@ -15,9 +15,8 @@ Note: Data used in the projects is for demonstration and educational purposes on
   ### :palm_tree: HTML, CSS, Java Script
   
   * [Mini Projects](https://github.com/mazqoty/)
-  Description
+  These are small pieces of codes consists of HTML, CSS and pure JS
   
-    <body>
   <table>
     <thead>
     <tr>
