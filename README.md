@@ -17,34 +17,28 @@ Note: Data used in the projects is for demonstration and educational purposes on
   * [Mini Projects](https://github.com/mazqoty/)
   Description
   
+    <body>
   <table>
-<caption>Demo Table</caption>
-<thead>
-<tr>
-<th>Column1</th>
-<th colspan="2">Column2</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Data1</td>
-<td>Data2</td>
-<td>Data2</td>
-</tr>
-<tr>
-<td>Data1</td>
-<td>Data2</td>
-<td>Data2</td>
-</tr>
-</tbody>
-<tfoot>
-<tr>
-<td>&nbsp;</td>
-<td>Data</td>
-<td>Data</td>
-</tr>
-</tfoot>
-</table>
+    <thead>
+    <tr>
+    <th>#</th>
+    <th>Project</th>
+    <th>Live Demo</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>1</td>
+    <td>Expanding Cards</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>2</td>
+    <td>Progress Steps</td>
+    <td></td>
+    </tr>
+    </tbody>
+    </table>
   
   ## Data Science
 
