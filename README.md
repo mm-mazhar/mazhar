@@ -14,15 +14,14 @@ Note: Data used in the projects is for demonstration and educational purposes on
 
   ### :palm_tree: HTML, CSS, Java Script
   
-  * [Mini Projects](https://github.com/mazqoty/)
-  These are small pieces of codes consists of HTML, CSS and pure JS
+  * These are small pieces of codes consists of HTML, CSS and pure JS
   
   <table>
     <thead>
     <tr>
     <th>#</th>
     <th>Project</th>
-    <th>Live Demo</th>
+    <th>Demo</th>
     </tr>
     </thead>
     <tbody>
