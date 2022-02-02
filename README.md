@@ -34,7 +34,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
     <tr>
     <td>2</td>
       <td><a href="https://github.com/mazqoty/Progress-Steps">Progress Steps</a></td>
-    <td><img src="https://github.com/mazqoty/Progress-Steps/blob/main/demo_progressSteps.gif" width="300px" height=150px></td>
+    <td><img src="https://github.com/mazqoty/Progress-Steps/blob/main/demo_progressSteps.gif" width="150px" height=75px></td>
     </tr>
     </tbody>
     </table>
