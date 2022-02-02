@@ -33,7 +33,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
     </tr>
     <tr>
     <td>2</td>
-    <td>[Mini Projects](https://github.com/mazqoty/Progress-Steps)</td>
+    <td>![Progress Steps](https://github.com/mazqoty/Progress-Steps)</td>
     <td><img src="https://github.com/mazqoty/Progress-Steps/blob/main/demo_progressSteps.gif" width="200px" height=100px></td>
     </tr>
     </tbody>
