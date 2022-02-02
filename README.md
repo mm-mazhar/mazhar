@@ -10,12 +10,14 @@ Repository containing portfolio of data science projects and data engineering pr
 
 Note: Data used in the projects is for demonstration and educational purposes only.
 
-## Contents
+## Fton End Web Development, ReactJS
 
   ### :palm_tree: HTML, CSS, Java Script
   
   * [Mini Projects](https://github.com/mazqoty/)
   Description
+  
+  ## Data Science
 
   ### :palm_tree: Data Analysis and Visualization
   
