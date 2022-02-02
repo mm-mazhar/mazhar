@@ -10,7 +10,7 @@ Repository containing portfolio of data science projects and data engineering pr
 
 Note: Data used in the projects is for demonstration and educational purposes only.
 
-## Fton End Web Development, ReactJS
+## Front End Web Development, ReactJS
 
   ### :palm_tree: HTML, CSS, Java Script
   
