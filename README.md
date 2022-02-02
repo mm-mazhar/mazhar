@@ -28,8 +28,8 @@ Note: Data used in the projects is for demonstration and educational purposes on
     <tbody>
     <tr>
     <td>1</td>
-    <td>Expanding Cards</td>
-    <td></td>
+    <td>[Expanding Cards](https://github.com/mazqoty/Progress-Steps)</td>
+    <td>![alt text](https://github.com/mazqoty/Progress-Steps/blob/main/demo_progressSteps.gif)</td>
     </tr>
     <tr>
     <td>2</td>
