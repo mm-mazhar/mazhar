@@ -12,6 +12,11 @@ Note: Data used in the projects is for demonstration and educational purposes on
 
 ## Contents
 
+  ### :palm_tree: HTML, CSS, Java Script
+  
+  * [Mini Projects](https://github.com/mazqoty/)
+  Description
+
   ### :palm_tree: Data Analysis and Visualization
   
   * [Data Analysis and Visualisation on E-Commerce Dataset](https://github.com/mazqoty/Data-Analysis-and-Visualization-on-Ecommerce-Dataset)
