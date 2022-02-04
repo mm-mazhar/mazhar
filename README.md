@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mazhar
-- 👀 I’m interested in Data Engineering and Data Science
+- 👀 I’m interested in Front End Web Development, ReactJS, Blockchain, Data Engineering and Data Science
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mazqoty.01@gmail.com
