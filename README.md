@@ -27,7 +27,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
     <tbody>
     <tr>
     <td>1</td>
-    <td><a href="https://codepen.io/mazqoty/pen/gOXwjwr" target="_blank">Tribute Page</a></td>
+    <td><a href="https://github.com/mazqoty/Tribute_Page" target="_blank">Tribute Page</a></td>
     <td><img src="https://i.imgur.com/KCn5p7T.gif" width="150px" height=75px></td>
     </tr>
     <tr>
