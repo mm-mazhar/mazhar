@@ -27,7 +27,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
     <tbody>
     <tr>
     <td>1</td>
-    <td><a href="https://codepen.io/mazqoty/pen/mdqrjqE target="_blank">Expanding Cards</a></td>
+    <td><a href="https://codepen.io/mazqoty/pen/mdqrjqE" target="_blank">Expanding Cards</a></td>
     <td></td>
     <td><a href="https://imgur.com/KCn5p7T" target="_blank"><img src="https://i.imgur.com/KCn5p7T.gif" title="Expanding Card Demo GIF"/></a></td>
     </tr>
