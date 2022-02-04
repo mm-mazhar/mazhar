@@ -27,11 +27,16 @@ Note: Data used in the projects is for demonstration and educational purposes on
     <tbody>
     <tr>
     <td>1</td>
-    <td><a href="https://codepen.io/mazqoty/pen/mdqrjqE" target="_blank">Expanding Cards</a></td>
+    <td><a href="https://codepen.io/mazqoty/pen/gOXwjwr" target="_blank">Tribute Page</a></td>
     <td><img src="https://i.imgur.com/KCn5p7T.gif" width="150px" height=75px></td>
     </tr>
     <tr>
     <td>2</td>
+    <td><a href="https://codepen.io/mazqoty/pen/mdqrjqE" target="_blank">Expanding Cards</a></td>
+    <td><img src="https://i.imgur.com/CpHSOVU.gif" width="150px" height=75px></td>
+    </tr>
+    <tr>
+    <td>3</td>
     <td><a href="https://codepen.io/mazqoty/pen/xxPEJpN" target="_blank">Progress Steps</a></td>
     <td><img src="https://i.imgur.com/Etzpr7G.gif" width="150px" height=75px></td>
     </tr>
