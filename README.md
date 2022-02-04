@@ -20,15 +20,16 @@ Note: Data used in the projects is for demonstration and educational purposes on
     <thead>
     <tr>
     <th>#</th>
-    <th>Project</th>
+    <th>Project with Code</th>
     <th>Demo</th>
     </tr>
     </thead>
     <tbody>
     <tr>
     <td>1</td>
-    <td><a href="https://github.com/mazqoty/Expanding-Cards">Expanding Cards</a></td>
-    <td><img src="https://github.com/mazqoty/Expanding-Cards/blob/main/Demo_expandingCards.gif" width="150px" height=75px></td>
+    <td><a href="https://codepen.io/mazqoty/pen/mdqrjqE target="_blank">Expanding Cards</a></td>
+    <td></td>
+    <td><a href="https://imgur.com/KCn5p7T" target="_blank"><img src="https://i.imgur.com/KCn5p7T.gif" title="Expanding Card Demo GIF"/></a></td>
     </tr>
     <tr>
     <td>2</td>
