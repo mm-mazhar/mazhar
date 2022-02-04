@@ -28,13 +28,12 @@ Note: Data used in the projects is for demonstration and educational purposes on
     <tr>
     <td>1</td>
     <td><a href="https://codepen.io/mazqoty/pen/mdqrjqE" target="_blank">Expanding Cards</a></td>
-    <td></td>
     <td><a href="https://imgur.com/KCn5p7T" target="_blank"><img src="https://i.imgur.com/KCn5p7T.gif" title="Expanding Card Demo GIF"/></a></td>
     </tr>
     <tr>
     <td>2</td>
-    <td><a href="https://github.com/mazqoty/Progress-Steps">Progress Steps</a></td>
-    <td><img src="https://github.com/mazqoty/Progress-Steps/blob/main/demo_progressSteps.gif" width="150px" height=75px></td>
+    <td><a href="https://codepen.io/mazqoty/pen/xxPEJpN" target="_blank">Progress Steps</a></td>
+    <td><img src="https://i.imgur.com/Etzpr7G.gif" width="150px" height=75px></td>
     </tr>
     </tbody>
     </table>
