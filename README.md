@@ -28,7 +28,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
     <tr>
     <td>1</td>
     <td><a href="https://github.com/mazqoty/Tribute_Page" target="_blank">Tribute Page</a></td>
-    <td><img src="https://i.imgur.com/KCn5p7T.gif" width="150px" height=75px></td>
+    <td><img src="https://i.imgur.com/oIs8fXX.gif" width="150px" height=75px></td>
     </tr>
     <tr>
     <td>2</td>
