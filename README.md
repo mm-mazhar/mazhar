@@ -35,9 +35,11 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 * [ Sentiment Analyzer](https://github.com/mazqoty/sentiment_Analyzer) This small program access the sentiments in the given sentences.
 
 ### :palm_tree: Others
-* [Bulk Image Downloader](https://github.com/mazqoty/Image-Downloader) It downloads the images in bulk. Image httpS links to be provided in .xls file.
+* [Bulk Image Downloader](https://github.com/mazqoty/dicom_jpg_resize) It downloads the images in bulk. Image httpS links to be provided in .xls file.
   [Docker Repo Pull](https://hub.docker.com/r/mazqoty/image_downloader)
 
+* [DICOM Image Resize](https://github.com/mazqoty/Image-Downloader) It converts .dcm to .png and resize them.
+  
 
 ## Front End Web Development, ReactJS
 
