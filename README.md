@@ -64,7 +64,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
     <tr>
     <td>2</td>
     <td><a href="https://github.com/mazqoty/pocketStyleSideMenu" target="_blank">Pocket Style collapseable Side Menu</a></td>
-    <td><img src="https://i.imgur.com/8i9pB2F.gif" width="75px" height=150px/></td>
+    <td><img src="https://i.imgur.com/jxSE5Ac.gif" width="75px" height=150px/></td>
     </tr>
     <tr>
     <td>3</td>
