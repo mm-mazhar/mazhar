@@ -58,7 +58,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
     <tbody>
     <tr>
     <td>1</td>
-    <td><a href="https://github.com/mazqoty/Tribute_Page" target="_blank">Tribute Page</a></td>
+    <td><a href="https://codepen.io/mazqoty/pen/gOXwjwr" target="_blank">Tribute Page</a></td>
     <td><img src="https://i.imgur.com/oIs8fXX.gif" width="150px" height=75px/></td>
     </tr>
     <tr>
