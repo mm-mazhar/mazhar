@@ -59,22 +59,22 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
     <tr>
     <td>1</td>
     <td><a href="https://github.com/mazqoty/Tribute_Page" target="_blank">Tribute Page</a></td>
-    <td><img src="https://i.imgur.com/oIs8fXX.gif" width="150px" height=75px></td>
+    <td><img src="https://i.imgur.com/oIs8fXX.gif" width="150px" height=75px/></td>
     </tr>
     <tr>
     <td>2</td>
     <td><a href="https://github.com/mazqoty/pocketStyleSideMenu" target="_blank">Pocket Style collapseable Side Menu</a></td>
-    <td><img src="https://i.imgur.com/8i9pB2F.gifv" width="150px" height=75px></td>
+    <td><img src="https://i.imgur.com/8i9pB2F.gif" width="150px" height=75px/></td>
     </tr>
     <tr>
     <td>3</td>
     <td><a href="https://codepen.io/mazqoty/pen/mdqrjqE" target="_blank">Expanding Cards</a></td>
-    <td><img src="https://i.imgur.com/CpHSOVU.gif" width="150px" height=75px></td>
+    <td><img src="https://i.imgur.com/CpHSOVU.gif" width="150px" height=75px/></td>
     </tr>
     <tr>
     <td>4</td>
     <td><a href="https://codepen.io/mazqoty/pen/xxPEJpN" target="_blank">Progress Steps</a></td>
-    <td><img src="https://i.imgur.com/Etzpr7G.gif" width="150px" height=75px></td>
+    <td><img src="https://i.imgur.com/Etzpr7G.gif" width="150px" height=75px/></td>
     </tr>
     </tbody>
     </table>
