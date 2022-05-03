@@ -19,7 +19,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
   https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset
   
   * [COVID-19 DASHBOARD Django Plotly Dash App](https://github.com/mazqoty/COVID-19-Dashboard-Django-Plotly)
-  This COVID-19 Dashboard tracks covid-19 confirmed, deaths, recovered, active active. It also contains vaccination analysis. The data was collected from various sources such as [CSSE at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) and [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations). This dashboard is made only for educational purpose.
+  This COVID-19 Dashboard tracks covid-19 confirmed, deaths, recovered, active cases. It also contains vaccination analysis. The data was collected from various sources such as [CSSE at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) and [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations). This dashboard is made only for educational purpose.
   
  ### :palm_tree: Machine Learning
 
