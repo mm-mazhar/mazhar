@@ -18,6 +18,17 @@ Note: Data used in the projects is for demonstration and educational purposes on
   This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018. The data was collected from   various e-commerce merchants as part of a research study. Further details can be found on the following link 
   https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset
   
+  <table style="width:100%">
+  <tr>
+    <td><img src="https://i.imgur.com/G67RxAf.png" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/XHC20H8.png" width="450px" height=225px/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/dbdX6qJ.png" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/C0yOsUL.png" width="450px" height=225px/></td>
+  </tr>
+</table>
+  
   * [COVID-19 DASHBOARD Django Plotly Dash App](https://github.com/mazqoty/COVID-19-Dashboard-Django-Plotly)
   This COVID-19 Dashboard tracks covid-19 confirmed, deaths, recovered, active cases. It also contains vaccination analysis. The data was collected from various sources such as [CSSE at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) and [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations). This dashboard is made only for educational purpose.
 
