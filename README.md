@@ -18,6 +18,9 @@ Note: Data used in the projects is for demonstration and educational purposes on
   This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018. The data was collected from   various e-commerce merchants as part of a research study. Further details can be found on the following link 
   https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset
   
+  * [COVID-19 DASHBOARD Django Plotly Dash App](https://github.com/mazqoty/COVID-19-Dashboard-Django-Plotly)
+  This COVID-19 Dashboard tracks covid-19 confirmed, deaths, recovered, active active. It also contains vaccination analysis. The data was collected from various sources such as [CSSE at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) and [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations). This dashboard is made only for educational purpose.
+  
  ### :palm_tree: Machine Learning
 
 * [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. [Check this app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py). The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
