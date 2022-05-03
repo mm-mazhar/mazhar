@@ -43,6 +43,12 @@ Note: Data used in the projects is for demonstration and educational purposes on
 
 * [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. [Check this app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py). The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.imgur.com/KJfXN94.png" width="450px" height=225px/></td>
+  </tr>
+</table>
+
 * [CNN_CIFAR100](https://github.com/mazqoty/CNN_CIFAR100) The objective of this project is study and build a convolutional neural network model that can correctly recognize and classify colored images of objects into one of the 100 available classes for CIFAR-100 dataset.
 This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.cs.toronto.edu/~kriz/cifar.html
 
