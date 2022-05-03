@@ -13,6 +13,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
 ## Data Science | Data Engineering | Databases | Visualization
 
   ### :palm_tree: Data Analysis and Visualization
+  <br>
   
   * [Data Analysis and Visualisation on E-Commerce Dataset](https://github.com/mazqoty/Data-Analysis-and-Visualization-on-Ecommerce-Dataset)
   This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018. The data was collected from   various e-commerce merchants as part of a research study. Further details can be found on the following link 
@@ -40,12 +41,13 @@ Note: Data used in the projects is for demonstration and educational purposes on
 </table>
   
  ### :palm_tree: Machine Learning
+ <br>
 
 * [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. [Check this app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py). The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/KJfXN94.png" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/KJfXN94.png" width="900px" height=450px/></td>
   </tr>
 </table>
 
