@@ -41,7 +41,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
 * [DASHBOARD Twitter Dash Plotly App](https://github.com/mazqoty/Dashboard-Twitter-Analytics)
 This is simple example of twitter API implementation to extract on going twitter trends in different countries, recent searches, user's info, and user's tweet. This dashboard is made only for educational purpose.
 
-@ #### See it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
+ #### See it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
 
 <table style="width:100%">
   <tr>
@@ -78,6 +78,8 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 * [DICOM Image Resize](https://github.com/mazqoty/dicom_jpg_resize) It converts .dcm to .png and resize them.
 * [Bulk Image Downloader](https://github.com/mazqoty/Image-Downloader) It downloads the images in bulk. Image https links to be provided in .xls file.
   [Docker Repo Pull](https://hub.docker.com/r/mazqoty/image_downloader)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Front End Web Development, ReactJS
 
