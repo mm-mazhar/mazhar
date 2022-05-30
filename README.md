@@ -54,7 +54,7 @@ This is simple example of twitter API implementation to extract on going twitter
   
  ### :palm_tree: Machine Learning
  
-* [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. [Check this app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py). The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
+* [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. 👀[Check this app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py). The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
 <table style="width:100%">
   <tr>
