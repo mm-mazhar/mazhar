@@ -31,10 +31,6 @@ Note: Data used in the projects is for demonstration and educational purposes on
   * [COVID-19 DASHBOARD Django Plotly Dash App](https://github.com/mazqoty/Dashbaord-Covid19-Django-Plotly_Dash)
   This COVID-19 Dashboard tracks covid-19 confirmed, deaths, recovered, active cases. It also contains vaccination analysis. The data was collected from various sources such as [CSSE at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) and [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations). This dashboard is made only for educational purpose. 
 
-  Credits: 
-  [Course on Udemy: Create Interactive Dashboards in Python by Plotly Dash](https://www.udemy.com/course/create-interactive-dashboards-in-python-by-plotly-dash/) By  Mubeen Ali
-
-
 <table style="width:100%">
   <tr>
     <td><img src="https://i.imgur.com/PwV2BEO.png" width="450px" height=225px/></td>
@@ -44,6 +40,8 @@ Note: Data used in the projects is for demonstration and educational purposes on
 
 * [DASHBOARD Twitter Dash Plotly App](https://github.com/mazqoty/Dashboard-Twitter-Analytics)
 This is simple example of twitter API implementation to extract on going twitter trends in different countries, recent searches, user's info, and user's tweet. This dashboard is made only for educational purpose.
+
+<a href="[https://codepen.io/mazqoty/pen/gOXwjwr](https://twitteranalyticsdashapp.herokuapp.com/)" target="_blank">Heroku</a>
 
 <table style="width:100%">
   <tr>
@@ -74,7 +72,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 * [Web Scraping Real State Website](https://github.com/mazqoty/Scraping-Zameen.com) It's the big real state web site. I scraped more than 100k of product data.
 ### :palm_tree: Natural Language Processing
 
-* [ Sentiment Analyzer](https://github.com/mazqoty/sentiment_Analyzer) This small program access the sentiments in the given sentences.
+* [Sentiment Analyzer](https://github.com/mazqoty/sentiment_Analyzer) This small program access the sentiments in the given sentences.
 
 ### :palm_tree: Others
 * [DICOM Image Resize](https://github.com/mazqoty/dicom_jpg_resize) It converts .dcm to .png and resize them.
