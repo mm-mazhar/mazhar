@@ -38,6 +38,18 @@ Note: Data used in the projects is for demonstration and educational purposes on
     <td><img src="https://i.imgur.com/zQICMOE.gif" width="450px" height=225px/></td>
   </tr>
 </table>
+
+* [DASHBOARD Twitter Dash Plotly App](https://github.com/mazqoty/Dashboard-Twitter-Analytics)
+This is simple example of twitter API implementation to extract on goint twitter trends in different countries, recent searches, user's info, and user's tweet. This dashboard is made only for educational purpose.
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="450px" height=225px/></td>
+  </tr>
+</table>
   
  ### :palm_tree: Machine Learning
  
