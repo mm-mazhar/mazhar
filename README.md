@@ -74,7 +74,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 * [Sentiment Analyzer](https://github.com/mazqoty/sentiment_Analyzer) This small program access the sentiments in the given sentences.
 
-### :ETL
+### :palm_tree: ETL
 * [ETL Using Shell Script](https://github.com/mazqoty/ETL_with_Shell_Scripts)
 <table style="width:100%">
   <tr>
