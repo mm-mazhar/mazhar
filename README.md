@@ -76,6 +76,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 ### :palm_tree: SQL
 * [ER and Working with Facts and Dimension Tables](https://github.com/mazqoty/Star_Schema)
+* [Data Warehousing and BI Analytics with IBM DB2 and IBM Cognos Analytics](https://github.com/mazqoty/Data_Warehousing)
 
 ### :palm_tree: ETL
 * [ETL Using Shell Script](https://github.com/mazqoty/ETL_with_Shell_Scripts)
@@ -130,7 +131,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
     <td><img src="https://i.imgur.com/Etzpr7G.gif" width="150px" height=75px/></td>
     </tr>
     </tbody>
-    </table>
+    </table> 
 
 
 <!---
