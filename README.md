@@ -9,7 +9,7 @@ Repository containing portfolio of data science projects and data engineering pr
 
 Note: Data used in the projects is for demonstration and educational purposes only.
 
-## Data Engineering | Data Science | Databases | Visualization
+## Data Engineering | Data Science | Machine Learning
 
   ### :palm_tree: Data Analysis and Visualization
     
