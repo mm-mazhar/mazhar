@@ -93,7 +93,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 * [Bulk Image Downloader](https://github.com/mazqoty/Image-Downloader) It downloads the images in bulk. Image https links to be provided in .xls file.
   [Docker Repo Pull](https://hub.docker.com/r/mazqoty/image_downloader)
 * [Weather Forecast](https://github.com/mazqoty/weatherForecast) It gives weather forecast for 5 days of given city.
-* [Python To Send Emails](https://github.com/mazqoty/usePythonForSendingEmails/blob/main/sendEmails.py) Uses python to send email to multiple contacts with attachments including pics and other file types.
+* [Python To Send Emails](https://github.com/mazqoty/usePythonForSendingEmails/blob/main/sendEmails.py) Uses python script to send email to multiple contacts with attachments including pics and other file types.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
