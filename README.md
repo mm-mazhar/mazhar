@@ -52,7 +52,7 @@ This is simple example of twitter API implementation to extract on going twitter
   </tr>
 </table>
 
-*[Emergency - 911 Calls](https://github.com/mazqoty/Emergency_911_Calls)
+* [Emergency - 911 Calls](https://github.com/mazqoty/Emergency_911_Calls)
 - This involves pandas, seaborn, plotly
 
 <table style="width:100%">
