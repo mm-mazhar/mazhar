@@ -56,8 +56,19 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/jghN1PE.jpg)" width="800px" height=225px/></td>
+    <td><img src="https://i.imgur.com/jghN1PE.jpg" width="800px" height=225px/></td>
     <td><img src="https://i.imgur.com/oLPajg0.jpg" width="800px" height=225px/></td>
+  </tr>
+</table>
+
+* [Chicago Divvy Bicycle Sharing Data]()
+  This involves pandas, plotly
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="800px" height=225px/></td>
+    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="800px" height=225px/></td>
+    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="800px" height=225px/></td>
   </tr>
 </table>
   
