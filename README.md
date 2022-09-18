@@ -19,7 +19,7 @@
 
 
 <table style="width:100%">
-  <tr>
+  <tr style="vertical-align: top;">
 	<td style="vertical-align: top;"><h3 align="left">Connect with me:</h3></td>
 	<td style="vertical-align: top;"><p align="left">
 		<a href="https://codepen.io/@mazqoty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mazqoty" width="20" height="20" /></a>
