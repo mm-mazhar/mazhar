@@ -56,8 +56,8 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/jghN1PE.jpg" width="800px" height=225px/></td>
-    <td><img src="https://i.imgur.com/oLPajg0.jpg" width="800px" height=225px/></td>
+    <td><img src="https://i.imgur.com/jghN1PE.jpg" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/oLPajg0.jpg" width="450px" height=225px/></td>
   </tr>
 </table>
 
@@ -66,19 +66,13 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="400px" height=200px/></td>
-    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="400px" height=200px/></td>
+    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="450px" height=225px/></td>
   </tr>
 </table>
 
-<table style="width:100%">
-  <tr>
-    <td><img src="https://i.imgur.com/i8olQtMl.jpg" width="400px" height=200px/></td>
-    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="400px" height=200px/></td>
-  </tr>
-</table>
-  
- ### :palm_tree: Machine Learning
+### :palm_tree: Machine Learning
  
 * [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. 👀[Check this app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py). The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
