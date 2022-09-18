@@ -73,6 +73,12 @@ This is simple example of twitter API implementation to extract on going twitter
     <td><img src="https://i.imgur.com/KbGbTyXl.gif" width="800px" height=225px/></td>
   </tr>
 </table>
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.imgur.com/KbGbTyXl.gif" width="1000px" height=500px/></td>
+  </tr>
+</table>
   
  ### :palm_tree: Machine Learning
  
