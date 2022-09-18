@@ -39,7 +39,7 @@ Note: Data used in the projects is for demonstration and educational purposes on
 </table>
 
 * [DASHBOARD Twitter Dash Plotly App](https://github.com/mazqoty/Dashboard-Twitter-Analytics)
-This is simple example of twitter API implementation to extract on going twitter trends in different countries, recent searches, user's info, and user's tweet. This dashboard is made only for educational purpose. #### 👀 it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
+This is simple example of twitter API implementation to extract on going twitter trends in different countries, recent searches, user's info, and user's tweet. This dashboard is made only for educational purpose. See 👀 it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
  
   
 <table style="width:100%">
