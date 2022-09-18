@@ -66,15 +66,15 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="800px" height=225px/></td>
-    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="800px" height=225px/></td>
+    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="800px" height=400px/></td>
+    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="800px" height=400px/></td>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/i8olQtMl.jpg" width="800px" height=225px/></td>
-    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="800px" height=225px/></td>
+    <td><img src="https://i.imgur.com/i8olQtMl.jpg" width="800px" height=400px/></td>
+    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="800px" height=400px/></td>
   </tr>
 </table>
   
@@ -111,8 +111,6 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
     <td><img src="https://i.imgur.com/u82IcQO.jpg" width="900px" height=450px/></td>
   </tr>
 </table>
-
-
 
 ### :palm_tree: Others
 * [DICOM Image Resize](https://github.com/mazqoty/dicom_jpg_resize) It converts .dcm to .png and resize them.
