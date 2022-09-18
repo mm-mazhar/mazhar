@@ -61,7 +61,7 @@ This is simple example of twitter API implementation to extract on going twitter
   </tr>
 </table>
 
-* [Chicago Divvy Bicycle Sharing Data]()
+* [Chicago Divvy Bicycle Sharing Data](https://github.com/mazqoty/ChicagoDivvyBicycleSharingData)
   This involves pandas, plotly
 
 <table style="width:100%">
