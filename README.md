@@ -70,7 +70,7 @@ This is simple example of twitter API implementation to extract on going twitter
     <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="800px" height=225px/></td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/KbGbTyX.gifv" width="800px" height=225px/></td>
+    <td><img src="<iframe class="imgur-embed" width="100%" height="360" frameborder="0" src="https://i.imgur.com/KbGbTyX.gifv#embed"></iframe>" width="800px" height=225px/></td>
   </tr>
 </table>
   
