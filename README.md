@@ -1,11 +1,8 @@
-<h1 style="color:blue;"align="center">Mazhar<p>Machine Learning Engineer<p></h1>
-
+<h1 style="color:blue;"align="center">Mazhar<i>Machine Learning Engineer<i></h1>
 
 - 🌱 I’m currently learning **Data Engineering and IOT**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
-
-- 📫 How to reach me **mazqoty.01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
