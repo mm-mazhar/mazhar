@@ -1,4 +1,4 @@
-<h1 style="color:blue;"align="center">Mazhar<h6>Machine Learning Engineer</h6></h1>
+<h1 style="color:blue;"align="center">Mazhar<p>Machine Learning Engineer<p></h1>
 
 
 - 🌱 I’m currently learning **Data Engineering and IOT**
