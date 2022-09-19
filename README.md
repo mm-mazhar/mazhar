@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mazhar</h1>
+<h1 style="color:blue;"align="center">Mazhar <p><small>(Machine Learning Engineer)</small></p></h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Data Engineering and IOT**
