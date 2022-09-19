@@ -1,23 +1,15 @@
-## **Mazhar**  
-  
+<h1 style="color:blue;"align="center">Mazhar<h6><i>Machine Learning Engineer<i><h6></h1>
 
-*<ins>Machine Learning Engineer</ins>*  
-  
+- 🌱 I’m currently learning **Data Engineering and IOT**
 
-<a href="https://github.com/mazqoty01" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/mazqoty01" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/mazqoty01" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-  
+- 👯 I’m looking to collaborate on **Machine Learning projects**
 
-#   
-  
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mazqoty01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazqoty01" width="20" height="20" /></a>
+<a href="https://kaggle.com/mazhar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mazhar01" width="20" height="20" /></a>
+ <a href="mazqoty.01@gmail.com*" target="blank" width="20" height="20">@</a>
+</p>
 <br/>  
 
 <h3 align="left">Languages and Tools:</h3>
