@@ -1,5 +1,5 @@
-<h1 style="color:blue;"align="center">Mazhar <p><small>(Machine Learning Engineer)</small></p></h1>
-<h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
+<h1 style="color:blue;"align="center">Mazhar</h1>
+<p><small>(Machine Learning Engineer)</small></p>
 
 - 🌱 I’m currently learning **Data Engineering and IOT**
 
