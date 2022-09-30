@@ -79,7 +79,7 @@ This is simple example of twitter API implementation to extract on going twitter
   </tr>
 </table>
  
- * [Walmart Sales Dataset of 45 stores](https://github.com/mazqoty/ChicagoDivvyBicycleSharingData)
+ * [Walmart Sales Dataset of 45 stores](https://github.com/mazqoty/WalmartSalesDatasetof45stores)
   This involves pandas, plotly
 
 <table style="width:100%">
