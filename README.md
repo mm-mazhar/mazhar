@@ -26,12 +26,12 @@
   
   <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/G67RxAf.png" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/G67RxAf.png" width="400px" height=225px/></td>
     <td><img src="https://i.imgur.com/XHC20H8.png" width="450px" height=225px/></td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/dbdX6qJ.png" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/C0yOsUL.png" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/dbdX6qJ.png" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/C0yOsUL.png" width="400px" height=225px/></td>
   </tr>
 </table>
   
@@ -40,8 +40,8 @@
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/PwV2BEO.png" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/zQICMOE.gif" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/PwV2BEO.png" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/zQICMOE.gif" width="400px" height=225px/></td>
   </tr>
 </table>
 
@@ -51,10 +51,10 @@ This is simple example of twitter API implementation to extract on going twitter
   
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="400px" height=225px/></td>
   </tr>
 </table>
 
@@ -63,8 +63,8 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/jghN1PE.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/oLPajg0.jpg" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/jghN1PE.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/oLPajg0.jpg" width="400px" height=225px/></td>
   </tr>
 </table>
 
@@ -73,9 +73,9 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="400px" height=225px/></td>
   </tr>
 </table>
  
