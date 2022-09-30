@@ -78,6 +78,17 @@ This is simple example of twitter API implementation to extract on going twitter
     <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="450px" height=225px/></td>
   </tr>
 </table>
+ 
+ * [Walmart Sales Dataset of 45 stores](https://github.com/mazqoty/ChicagoDivvyBicycleSharingData)
+  This involves pandas, plotly
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.imgur.com/fnhCve6.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/G45d60m.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="400px" height=225px/></td>
+  </tr>
+</table>
 
 ### :palm_tree: Machine Learning
  
