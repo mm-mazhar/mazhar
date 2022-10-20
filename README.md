@@ -16,8 +16,10 @@
  
 <hr>
 
-## Data Engineering | Data Science | Machine Learning | Deep Learning
+# Data Engineering | Data Science | Machine Learning | Deep Learning
 
+ ## Data Science
+  
   ### :palm_tree: Data Analysis and Visualization
     
   * [Data Analysis and Visualisation on E-Commerce Dataset](https://github.com/mazqoty/Data-Analysis-and-Visualization-on-Ecommerce-Dataset)
@@ -107,16 +109,17 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 ### :palm_tree: Object Detection
 
-* [Face Mask Detection](https://github.com/mazqoty/Face-Mask-Detection) It detects whether person is wearing fask mask or not and mask wearing incorrectly. [Dataset](https://www.kaggle.com/code/jiaowoguanren/face-mask-detection-tensorflow-cnn-resmlp/data) taken from KAGGLE. 
+* [Face Mask Detection](https://github.com/mazqoty/Face-Mask-Detection) It detects whether person is wearing fask mask or not and mask wearing incorrectly. [Dataset](https://www.kaggle.com/code/jiaowoguanren/face-mask-detection-tensorflow-cnn-resmlp/data) taken from KAGGLE.
+ 
+ ### :palm_tree: Natural Language Processing
+
+* [Sentiment Analyzer](https://github.com/mazqoty/sentiment_Analyzer) This small program access the sentiments in the given sentences.
 
 ## Web Scraping
 
 * [Web Scraping Ecommerce Website](https://github.com/mazqoty/Scraping-Carrefour-E-commerce) Over 5K product data scraped from Carrefour including Images.
 * [Web Scraping Ecommerce Website](https://github.com/mazqoty/Scraping-Lulu-Hypermarket-E-commerce) Over 10K products data scraped from Lu-Lu Hypermarket. It also includes   images of the products.
 * [Web Scraping Real State Website](https://github.com/mazqoty/Scraping-Zameen.com) It's the big real state web site. I scraped more than 100k of product data.
-### :palm_tree: Natural Language Processing
-
-* [Sentiment Analyzer](https://github.com/mazqoty/sentiment_Analyzer) This small program access the sentiments in the given sentences.
 
 ## SQL
 * [ER and Working with Facts and Dimension Tables](https://github.com/mazqoty/Star_Schema)
