@@ -18,6 +18,8 @@
 
 # Data Engineering | Data Science | Machine Learning | Deep Learning
 
+<hr>
+
  ## Data Science
   
   ### :palm_tree: Data Analysis and Visualization
