@@ -109,7 +109,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 * [Face Mask Detection](https://github.com/mazqoty/Face-Mask-Detection) It detects whether person is wearing fask mask or not and mask wearing incorrectly. [Dataset](https://www.kaggle.com/code/jiaowoguanren/face-mask-detection-tensorflow-cnn-resmlp/data) taken from KAGGLE. 
 
-### :palm_tree: Web Scraping
+## Web Scraping
 
 * [Web Scraping Ecommerce Website](https://github.com/mazqoty/Scraping-Carrefour-E-commerce) Over 5K product data scraped from Carrefour including Images.
 * [Web Scraping Ecommerce Website](https://github.com/mazqoty/Scraping-Lulu-Hypermarket-E-commerce) Over 10K products data scraped from Lu-Lu Hypermarket. It also includes   images of the products.
@@ -118,11 +118,11 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 * [Sentiment Analyzer](https://github.com/mazqoty/sentiment_Analyzer) This small program access the sentiments in the given sentences.
 
-### :palm_tree: SQL
+## SQL
 * [ER and Working with Facts and Dimension Tables](https://github.com/mazqoty/Star_Schema)
 * [Data Warehousing/BI Analytics with IBM DB2 / IBM Cognos Analytics](https://github.com/mazqoty/Data_Warehousing)
 
-### :palm_tree: ETL
+## ETL
 * [ETL Using Shell Script](https://github.com/mazqoty/ETL_with_Shell_Scripts)
 <table style="width:100%">
   <tr>
@@ -130,7 +130,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
   </tr>
 </table>
 
-### :palm_tree: Others
+## Others
 * [DICOM Image Resize](https://github.com/mazqoty/dicom_jpg_resize) It converts .dcm to .png and resize them.
 * [Bulk Image Downloader](https://github.com/mazqoty/Image-Downloader) It downloads the images in bulk. Image https links to be provided in .xls file.
   [Docker Repo Pull](https://hub.docker.com/r/mazqoty/image_downloader)
