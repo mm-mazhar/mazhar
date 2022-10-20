@@ -16,7 +16,7 @@
  
 <hr>
 
-## Data Engineering | Data Science | Machine Learning
+## Data Engineering | Data Science | Machine Learning | Deep Learning
 
   ### :palm_tree: Data Analysis and Visualization
     
@@ -90,7 +90,9 @@ This is simple example of twitter API implementation to extract on going twitter
   </tr>
 </table>
 
-### :palm_tree: Machine Learning
+## Deep Learning
+
+### :palm_tree: Image Classification
  
 * [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. 👀[Check this app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py). The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
@@ -100,8 +102,12 @@ This is simple example of twitter API implementation to extract on going twitter
   </tr>
 </table>
 
-* [CNN_CIFAR100](https://github.com/mazqoty/CNN_CIFAR100) The objective of this project is study and build a convolutional neural network model that can correctly recognize and classify colored images of objects into one of the 100 available classes for CIFAR-100 dataset.
+* [CNN_CIFAR100](https://github.com/mazqoty/CNN_CIFAR100) The objective of this project is to study and build a convolutional neural network model that can correctly recognize and classify colored images of objects into one of the 100 available classes for CIFAR-100 dataset.
 This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.cs.toronto.edu/~kriz/cifar.html
+
+### :palm_tree: Object Detection
+
+* [Face Mask Detection](https://github.com/mazqoty/Face-Mask-Detection) It detects whether person is wearing fask mask or not and mask wearing incorrectly. [Dataset](https://www.kaggle.com/code/jiaowoguanren/face-mask-detection-tensorflow-cnn-resmlp/data) taken from KAGGLE. 
 
 ### :palm_tree: Web Scraping
 
