@@ -112,6 +112,14 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 ### :palm_tree: Object Detection
 
 * [Face Mask Detection](https://github.com/mazqoty/Face-Mask-Detection) It detects whether person is wearing fask mask or not and mask wearing incorrectly. [Dataset](https://www.kaggle.com/code/jiaowoguanren/face-mask-detection-tensorflow-cnn-resmlp/data) taken from KAGGLE.
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.imgur.com/eS5tBWe.png" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/egbdNGb.png" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/xPzwgto.png" width="400px" height=225px/></td>
+   </tr>
+</table>
  
  ### :palm_tree: Natural Language Processing
 
