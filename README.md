@@ -119,7 +119,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 ### :palm_tree: Object Detection
  
- * [Automatic Number Plate Recognition and EasyOCR](https://github.com/mazqoty/Automatic-Number-Plate-Recognition-and-EasyOCR) It detects licence plate and does OCR. [Dataset](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection) taken from KAGGLE.
+ * [Automatic Number Plate Recognition and EasyOCR](https://github.com/mazqoty/Automatic-Number-Plate-Recognition-and-EasyOCR) It detects licence plate live on webcam or on the given image and does OCR. [Dataset](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection) taken from KAGGLE.
  
  <tr>
     <td><img src="https://i.imgur.com/wVvrsVv.png" width="500px" height=225px/></td>
