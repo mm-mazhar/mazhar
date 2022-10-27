@@ -118,6 +118,16 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 </table>
 
 ### :palm_tree: Object Detection
+ 
+ * [Automatic Number Plate Recognition and EasyOCR](https://github.com/mazqoty/Automatic-Number-Plate-Recognition-and-EasyOCR) It detects It detects liscence plate and does OCR. [Dataset](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection) taken from KAGGLE.
+ 
+ <tr>
+    <td><img src="https://i.imgur.com/wVvrsVv.png" width="500px" height=225px/></td>
+    <td><img src="https://i.imgur.com/lPeUea7.png" width="500px" height=225px/></td>
+   <td><img src="https://i.imgur.com/rhOMFNk.png" width="500px" height=225px/></td>
+   </tr>
+</table>
+ 
 
 * [Face Mask Detection](https://github.com/mazqoty/Face-Mask-Detection) It detects whether person is wearing fask mask or not and mask wearing incorrectly. [Dataset](https://www.kaggle.com/code/jiaowoguanren/face-mask-detection-tensorflow-cnn-resmlp/data) taken from KAGGLE.
 
