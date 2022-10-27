@@ -124,8 +124,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
  <tr>
     <td><img src="https://i.imgur.com/wVvrsVv.png" width="500px" height=225px/></td>
     <td><img src="https://i.imgur.com/lPeUea7.png" width="500px" height=225px/></td>
-   <td><img src="https://i.imgur.com/rhOMFNk.png" width="500px" height=225px/></td>
-   </tr>
+ </tr>
 </table>
  
 
