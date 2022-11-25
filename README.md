@@ -160,6 +160,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 </table>
 
 ## Others
+* [Image Utility: OpenCV with Streamlit](https://github.com/mazqoty/openCVwithStreamlit) This is small image utility tool which resize images, record video from local  webcam, write text on images/video files/live feed, Take Pictures From Camera, Blending Images of same/different sizes etc.
 * [DICOM Image Resize](https://github.com/mazqoty/dicom_jpg_resize) It converts .dcm to .png and resize them.
 * [Bulk Image Downloader](https://github.com/mazqoty/Image-Downloader) It downloads the images in bulk. Image https links to be provided in .xls file.
   [Docker Repo Pull](https://hub.docker.com/r/mazqoty/image_downloader)
