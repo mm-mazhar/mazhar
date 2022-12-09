@@ -35,10 +35,6 @@
     <td><img src="https://i.imgur.com/dbdX6qJ.png" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/C0yOsUL.png" width="200px" height=100px/></td>
   </tr>
-  <tr>
-    <td><img src="https://i.imgur.com/dbdX6qJ.png" width="50px" height=25px/></td>
-    <td><img src="https://i.imgur.com/C0yOsUL.png" width="50px" height=25px/></td>
-  </tr>
 </table>
   
   * [COVID-19 DASHBOARD Django Plotly Dash App](https://github.com/mazqoty/Dashbaord-Covid19-Django-Plotly_Dash)
@@ -46,8 +42,8 @@
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/PwV2BEO.png" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/zQICMOE.gif" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/PwV2BEO.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/zQICMOE.gif" width="200px" height=100px/></td>
   </tr>
 </table>
 
@@ -57,10 +53,10 @@ This is simple example of twitter API implementation to extract on going twitter
   
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="200px" height=100px/></td>
   </tr>
 </table>
 
@@ -69,8 +65,8 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/jghN1PE.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/oLPajg0.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/jghN1PE.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/oLPajg0.jpg" width="200px" height=100px/></td>
   </tr>
 </table>
 
@@ -79,9 +75,9 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="200px" height=100px/></td>
   </tr>
 </table>
  
@@ -90,9 +86,9 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/fnhCve6.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/G45d60m.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/fnhCve6.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/G45d60m.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="200px" height=100px/></td>
   </tr>
 </table>
 
@@ -104,7 +100,7 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/KJfXN94.png" width="900px" height=450px/></td>
+    <td><img src="https://i.imgur.com/KJfXN94.png" width="200px" height=100px/></td>
   </tr>
 </table>
 
@@ -113,8 +109,8 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/aRCdJ9Z.png" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/F41sf7q.png" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/aRCdJ9Z.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/F41sf7q.png" width="200px" height=100px/></td>
    
    </tr>
 </table>
@@ -125,7 +121,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
  * [Tensorflow Object Detection Installation and Streamlit App: Automatic Number Plate Recognition and EasyOCR](https://github.com/mazqoty/Tensorflow-Object-Detection-Installation-and-ANPReasyOCR-Streamlit-App) 
  
  <tr>
-    <td><img src="https://i.imgur.com/rhOMFNk.png" width="900px" height=450px/></td>
+    <td><img src="https://i.imgur.com/rhOMFNk.png" width="200px" height=100px/></td>
  </tr>
 </table>
  
@@ -134,9 +130,9 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/eS5tBWe.png" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/egbdNGb.png" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/xPzwgto.png" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/eS5tBWe.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/egbdNGb.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/xPzwgto.png" width="200px" height=100px/></td>
    </tr>
 </table>
  
@@ -144,9 +140,9 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/PnKlRng.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/aIp9xxR.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/8zv7x8n.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/PnKlRng.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/aIp9xxR.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/8zv7x8n.jpg" width="200px" height=100px/></td>
     </tr>
 </table>
  
@@ -168,7 +164,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 * [ETL Using Shell Script](https://github.com/mazqoty/ETL_with_Shell_Scripts)
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/u82IcQO.jpg" width="900px" height=450px/></td>
+    <td><img src="https://i.imgur.com/u82IcQO.jpg" width="200px" height=100px/></td>
   </tr>
 </table>
 
