@@ -32,6 +32,8 @@
   <tr>
     <td><img src="https://i.imgur.com/G67RxAf.png" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/XHC20H8.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/dbdX6qJ.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/C0yOsUL.png" width="200px" height=100px/></td>
   </tr>
   <tr>
     <td><img src="https://i.imgur.com/dbdX6qJ.png" width="50px" height=25px/></td>
