@@ -30,12 +30,12 @@
   
   <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/G67RxAf.png" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/XHC20H8.png" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/G67RxAf.png" width="50px" height=25px/></td>
+    <td><img src="https://i.imgur.com/XHC20H8.png" width="50px" height=25px/></td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/dbdX6qJ.png" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/C0yOsUL.png" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/dbdX6qJ.png" width="50px" height=25px/></td>
+    <td><img src="https://i.imgur.com/C0yOsUL.png" width="50px" height=25px/></td>
   </tr>
 </table>
   
