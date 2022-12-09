@@ -30,8 +30,8 @@
   
   <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/G67RxAf.png" width="50px" height=25px/></td>
-    <td><img src="https://i.imgur.com/XHC20H8.png" width="50px" height=25px/></td>
+    <td><img src="https://i.imgur.com/G67RxAf.png" width="100px" height=50px/></td>
+    <td><img src="https://i.imgur.com/XHC20H8.png" width="100px" height=50px/></td>
   </tr>
   <tr>
     <td><img src="https://i.imgur.com/dbdX6qJ.png" width="50px" height=25px/></td>
