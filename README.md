@@ -142,7 +142,9 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/55f9NmN.gifv" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/PnKlRng.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/aIp9xxR.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/8zv7x8n.jpg" width="400px" height=225px/></td>
     </tr>
 </table>
  
