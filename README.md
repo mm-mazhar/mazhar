@@ -138,6 +138,14 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
    </tr>
 </table>
  
+ * [Yolo-v5-Streamlit-App-Pretrained-Model](https://github.com/mazqoty/Yolo-v5-Streamlit-App-Pretrained-Model) This is small streamlit app on yolo v5 which detects classes on pictures, videos, live feed.
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.imgur.com/55f9NmN.gifv" width="400px" height=225px/></td>
+    </tr>
+</table>
+ 
  ### :palm_tree: Natural Language Processing
 
 * [Sentiment Analyzer](https://github.com/mazqoty/sentiment_Analyzer) This small program access the sentiments in the given sentences.
