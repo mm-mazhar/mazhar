@@ -28,7 +28,7 @@
   This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018. The data was collected from   various e-commerce merchants as part of a research study. Further details can be found on the following link 
   https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset
   
-  <table style="width:100%">
+  <table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/G67RxAf.png" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/XHC20H8.png" width="200px" height=100px/></td>
@@ -40,7 +40,7 @@
   * [COVID-19 DASHBOARD Django Plotly Dash App](https://github.com/mazqoty/Dashbaord-Covid19-Django-Plotly_Dash)
   This COVID-19 Dashboard tracks covid-19 confirmed, deaths, recovered, active cases. It also contains vaccination analysis. The data was collected from various sources such as [CSSE at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) and [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations). This dashboard is made only for educational purpose. 
 
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/PwV2BEO.png" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/zQICMOE.gif" width="200px" height=100px/></td>
@@ -51,7 +51,7 @@
 This is simple example of twitter API implementation to extract on going twitter trends in different countries, recent searches, user's info, and user's tweet. This dashboard is made only for educational purpose. See 👀 it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
  
   
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="200px" height=100px/></td>
@@ -63,7 +63,7 @@ This is simple example of twitter API implementation to extract on going twitter
 * [Emergency - 911 Calls](https://github.com/mazqoty/Emergency_911_Calls)
   This involves pandas, seaborn, plotly
 
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/jghN1PE.jpg" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/oLPajg0.jpg" width="200px" height=100px/></td>
@@ -73,7 +73,7 @@ This is simple example of twitter API implementation to extract on going twitter
 * [Chicago Divvy Bicycle Sharing Data](https://github.com/mazqoty/ChicagoDivvyBicycleSharingData)
   This involves pandas, plotly
 
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="200px" height=100px/></td>
@@ -84,11 +84,11 @@ This is simple example of twitter API implementation to extract on going twitter
  * [Walmart Sales Dataset of 45 stores](https://github.com/mazqoty/WalmartSalesDatasetof45stores)
   This involves pandas, plotly
 
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
-    <td><img src="https://i.imgur.com/fnhCve6.jpg" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/G45d60m.jpg" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/fnhCve6.jpg" width="200px" height=110px/></td>
+    <td><img src="https://i.imgur.com/G45d60m.jpg" width="200px" height=110px/></td>
+    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="200px" height=110px/></td>
   </tr>
 </table>
 
@@ -98,7 +98,7 @@ This is simple example of twitter API implementation to extract on going twitter
  
 * [Convlutional Neural Network](https://github.com/mazqoty/malaria_detection) In this exercise, the CNN model predicts where an uploaded image of cell is infected/uninfected from malaria bectaria. This is also deployed on streamlit. 👀[Check this app on Streamlit](https://share.streamlit.io/mazqoty/malaria_detection/main/app.py). The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/KJfXN94.png" width="200px" height=100px/></td>
   </tr>
@@ -107,7 +107,7 @@ This is simple example of twitter API implementation to extract on going twitter
 * [CNN_CIFAR100](https://github.com/mazqoty/CNN_CIFAR100) The objective of this project is to study and build a convolutional neural network model that can correctly recognize and classify colored images of objects into one of the 100 available classes for CIFAR-100 dataset.
 This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.cs.toronto.edu/~kriz/cifar.html
 
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/aRCdJ9Z.png" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/F41sf7q.png" width="200px" height=100px/></td>
@@ -119,7 +119,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
  
  * [Automatic Number Plate Recognition and EasyOCR](https://github.com/mazqoty/Automatic-Number-Plate-Recognition-and-EasyOCR) It detects licence plate live on webcam or on the given image and does OCR. [Dataset](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection) taken from KAGGLE.
  * [Tensorflow Object Detection Installation and Streamlit App: Automatic Number Plate Recognition and EasyOCR](https://github.com/mazqoty/Tensorflow-Object-Detection-Installation-and-ANPReasyOCR-Streamlit-App) 
- 
+ <table style="width:100%" align="center">
  <tr>
     <td><img src="https://i.imgur.com/rhOMFNk.png" width="200px" height=100px/></td>
  </tr>
@@ -128,7 +128,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 * [Face Mask Detection](https://github.com/mazqoty/Face-Mask-Detection) It detects whether person is wearing fask mask or not and mask wearing incorrectly. [Dataset](https://www.kaggle.com/code/jiaowoguanren/face-mask-detection-tensorflow-cnn-resmlp/data) taken from KAGGLE.
 
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/eS5tBWe.png" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/egbdNGb.png" width="200px" height=100px/></td>
@@ -138,7 +138,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
  
  * [Yolo-v5-Streamlit-App-Pretrained-Model](https://github.com/mazqoty/Yolo-v5-Streamlit-App-Pretrained-Model) This is small streamlit app on yolo v5 which detects classes on pictures, videos, live feed.
 
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/PnKlRng.jpg" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/aIp9xxR.jpg" width="200px" height=100px/></td>
@@ -162,7 +162,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 ## ETL
 * [ETL Using Shell Script](https://github.com/mazqoty/ETL_with_Shell_Scripts)
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/u82IcQO.jpg" width="200px" height=100px/></td>
   </tr>
