@@ -42,8 +42,8 @@
 
 <table style="width:100%" align="center">
   <tr>
-    <td><img src="https://i.imgur.com/PwV2BEO.png" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/zQICMOE.gif" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/PwV2BEO.png" width="300px" height=200px/></td>
+    <td><img src="https://i.imgur.com/zQICMOE.gif" width="300px" height=200px/></td>
   </tr>
 </table>
 
@@ -75,9 +75,9 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%" align="center">
   <tr>
-    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="180px" height=100px/></td>
+    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="180px" height=100px/></td>
+    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="180px" height=100px/></td>
   </tr>
 </table>
  
@@ -86,9 +86,9 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%" align="center">
   <tr>
-    <td><img src="https://i.imgur.com/fnhCve6.jpg" width="200px" height=110px/></td>
-    <td><img src="https://i.imgur.com/G45d60m.jpg" width="200px" height=110px/></td>
-    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="200px" height=110px/></td>
+    <td><img src="https://i.imgur.com/fnhCve6.jpg" width="180px" height=110px/></td>
+    <td><img src="https://i.imgur.com/G45d60m.jpg" width="180px" height=110px/></td>
+    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="180px" height=110px/></td>
   </tr>
 </table>
 
