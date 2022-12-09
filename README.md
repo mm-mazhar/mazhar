@@ -130,9 +130,9 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 <table style="width:100%" align="center">
   <tr>
-    <td><img src="https://i.imgur.com/eS5tBWe.png" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/egbdNGb.png" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/xPzwgto.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/eS5tBWe.png" width="140px" height=75px/></td>
+    <td><img src="https://i.imgur.com/egbdNGb.png" width="140px" height=75px/></td>
+    <td><img src="https://i.imgur.com/xPzwgto.png" width="140px" height=75px/></td>
    </tr>
 </table>
  
