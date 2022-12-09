@@ -121,7 +121,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
  * [Tensorflow Object Detection Installation and Streamlit App: Automatic Number Plate Recognition and EasyOCR](https://github.com/mazqoty/Tensorflow-Object-Detection-Installation-and-ANPReasyOCR-Streamlit-App) 
  <table style="width:100%" align="center">
  <tr>
-    <td><img src="https://i.imgur.com/rhOMFNk.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/rhOMFNk.png" width="300px" height=200px/></td>
  </tr>
 </table>
  
