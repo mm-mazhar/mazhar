@@ -143,6 +143,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
     <td><img src="https://i.imgur.com/9jmID2D.png" width="200px" height=100px/></td>
     </tr>
 </table>
+ 
  * [Yolo-v5-Streamlit-App-Pretrained-Model](https://github.com/mazqoty/Yolo-v5-Streamlit-App-Pretrained-Model) This is small streamlit app on yolo v5 which detects classes on pictures, videos, live feed.
 
 <table style="width:100%" align="center">
