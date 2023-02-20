@@ -164,6 +164,10 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 * [Web Scraping Ecommerce Website](https://github.com/mazqoty/Scraping-Lulu-Hypermarket-E-commerce) Over 10K products data scraped from Lu-Lu Hypermarket. It also includes   images of the products.
 * [Web Scraping Real State Website](https://github.com/mazqoty/Scraping-Zameen.com) It's the big real state web site. I scraped more than 100k of product data.
 
+## Python Packages
+
+* [Pytubev3](https://github.com/mm-mazhar/pytubev3) A wrapper around youtube API v3: pytubev3 is a genuine, lightweight, dependency-free Python library to simplify Youtube Data API tasks.
+
 ## SQL
 * [ER and Working with Facts and Dimension Tables](https://github.com/mazqoty/Star_Schema)
 * [Data Warehousing/BI Analytics with IBM DB2 / IBM Cognos Analytics](https://github.com/mazqoty/Data_Warehousing)
