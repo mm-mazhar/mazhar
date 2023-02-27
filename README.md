@@ -168,7 +168,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 * [Pytubev3](https://github.com/mm-mazhar/pytubev3) A wrapper around youtube API v3: pytubev3 is a genuine, lightweight, dependency-free Python library to simplify Youtube Data API tasks.
 
-* [Image Downloader]([Pytubev3](https://github.com/mm-mazhar/pytubev3) This Python Package called imagedownloader that defines three methods: `fromList()`, `fromCsv()`, and `zipFolder()`. The class is designed to download images from either a list of URLs or a CSV file containing multiple URLs.
+* [Image Downloader](https://github.com/mm-mazhar/imagedownloader) This Python Package called imagedownloader that defines three methods: `fromList()`, `fromCsv()`, and `zipFolder()`. The class is designed to download images from either a list of URLs or a CSV file containing multiple URLs.
 
 ## SQL
 * [ER and Working with Facts and Dimension Tables](https://github.com/mazqoty/Star_Schema)
