@@ -16,7 +16,7 @@
  
 <hr>
 
-### Data Engineering | Data Science | Machine Learning | Deep Learning
+### Data Science | Machine Learning | Deep Learning
 
 <hr>
 
