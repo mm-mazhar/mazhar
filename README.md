@@ -86,7 +86,7 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <table style="width:100%" align="center">
   <tr>
-    <td><img src="https://i.imgur.com/fnhCve6.jpg" width="180px" height=110px/></td>
+    <td><img src="https://i.imgur.com/Z1BwoRh.jpg" width="180px" height=110px/></td>
     <td><img src="https://i.imgur.com/G45d60m.jpg" width="180px" height=110px/></td>
     <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="180px" height=110px/></td>
   </tr>
