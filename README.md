@@ -193,8 +193,17 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Front End Web Development, ReactJS
-
+## Front End Web Development, Django
+  ### :palm_tree: Portfolio Website (Django)
+  
+  <table style="width:100%">
+  
+  <tr>
+    <td><img src="https://i.imgur.com/1E4wt6s.jpg" width="800px" height=300px/></td>
+  </tr>
+  
+</table>
+  
   ### :palm_tree: HTML, CSS, Java Script
   
   * These are small pieces of codes consists of HTML, CSS and pure JS
@@ -230,6 +239,8 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
     </tr>
     </tbody>
     </table> 
+    
+    
 
 
 <!---
