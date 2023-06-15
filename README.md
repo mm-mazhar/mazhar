@@ -108,7 +108,7 @@ This is simple example of twitter API implementation to extract on going twitter
 </div>
 
 <div align="center">
-  <span class="label" style="pointer-events: none;"><img alt="PyPI" src="https://img.shields.io/pypi/v/lasso-regression-model?logo=PyPi&style=plastic"></span>
+  <span class="label"><a href="https://pypi.org/project/lasso-regression-model/"><img alt="PyPI" src="https://img.shields.io/pypi/v/lasso-regression-model?logo=PyPi&style=plastic"></a></span>
  <span class="label" style="pointer-events: none;"><img alt="CircleCI" src="https://img.shields.io/circleci/build/github/mm-mazhar/Deploying-ML-Lasso-Regression-Model/main?logo=circleci&style=plastic"></span>
  <span class="label" style="pointer-events: none;"><img src="https://img.shields.io/badge/Railway-000000?style=plastic&logo=Railway"/></span>
  <span class="label" style="pointer-events: none;"><img src="https://img.shields.io/badge/Docker-000000?style=plastic&logo=Docker"/></span> 
