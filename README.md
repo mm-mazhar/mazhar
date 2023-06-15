@@ -96,14 +96,21 @@ This is simple example of twitter API implementation to extract on going twitter
 
 ### :palm_tree: [End-to-End Regression Model Pipeline Development with FastAPI: From Data Scraping to Deployment with CI/CD Integration](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model)
 
-Key Features: 
-- Comprehensive end-to-end solution for real estate data analysis and machine learning model deployment
-- Collection of real estate data from a website and thorough data processing and cleaning
-- Feature engineering using popular libraries like pandas, numpy, SK-Learn, and Feature Engine
-- Building a robust ML pipeline with Lasso Regression Model training and fine-tuning
-- Packaging and uploading the model to PyPi for easy integration and deployment
-- Implementation of software engineering practices with emphasis on testing using Pytest and Tox
-- Exposing the trained ML model as an API using FastAPI, a modern and efficient web framework
+Click on the image to see full view.
+<table style="width:100%">
+<tr>
+  <td><img src="https://i.imgur.com/n8tEwXy.png" alt="Image" width="550px" height=260px/></td>
+  </tr>
+</table>
+
+Key Features
+- Comprehensive end-to-end solution for real estate data analysis and machine learning model deployment.
+- Collection of data via scraping a real estate website, data processing and cleaning. [Data upload to Kaggle](https://www.kaggle.com/datasets/mazhar01/real-state-website-data). [Data Scraping Github repo](https://github.com/mm-mazhar/Scraping-Zameen.com)
+- Feature engineering using popular libraries like pandas, numpy, SK-Learn, and Feature Engine.
+- Building a robust ML pipeline with Lasso Regression Model training and fine-tuning.
+- Packaging and uploading the model to [PyPi](https://pypi.org/project/lasso-regression-model/) for easy integration and deployment.
+- Implementation of software engineering practices with emphasis on testing using Pytest and Tox.
+- Exposing the trained ML model as an API using FastAPI, a modern and efficient web framework. [Link to Deloyed API](https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post)
 - Continuous integration and deployment with CircleCI for automated building, testing, and deployment
 - Utilizing Docker for streamlined deployment to the Railway Platform
 - Encapsulation of the entire application, including dependencies and environment, within a Docker container
