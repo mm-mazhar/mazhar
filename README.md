@@ -102,9 +102,9 @@ This is simple example of twitter API implementation to extract on going twitter
 </table>
 
 <div align="center">
- <span class="label"><a href="https://github.com/mm-mazhar/Scraping-Zameen.com"><img alt="Github Data Scraping Repo" src="https://img.shields.io/badge/Github-Data%20Scraping%20Repo-blue"></a></span>
- <span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/real-state-website-data"><img alt="Download Data From Kaggle" src="https://img.shields.io/badge/kaggle-Data-blue"></a></span>
- <span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span>
+ <span class="label"><a href="https://github.com/mm-mazhar/Scraping-Zameen.com" target="blank"><img alt="Github Data Scraping Repo" src="https://img.shields.io/badge/Github-Data%20Scraping%20Repo-blue"></a></span>
+ <span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/real-state-website-data" target="blank"><img alt="Download Data From Kaggle" src="https://img.shields.io/badge/kaggle-Data-blue"></a></span>
+ <span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span>
 </div>
 
 <div align="center">
