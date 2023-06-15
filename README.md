@@ -114,7 +114,6 @@ Key Features
 - Utilizing Docker for streamlined deployment to the Railway Platform
 - Encapsulation of the entire application, including dependencies and environment, within a Docker container
 - Consistency across different environments, easy reproducibility, and simplified deployment with Docker
-- Providing a scalable and efficient solution for real estate professionals to gain valuable insights and make data-driven decisions in the real estate market.
 
 ## Deep Learning
 
