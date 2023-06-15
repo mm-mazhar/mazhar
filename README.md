@@ -94,7 +94,7 @@ This is simple example of twitter API implementation to extract on going twitter
 ## Machine Learning
 
 ### :palm_tree: [End-to-End Regression Model Pipeline Development with FastAPI: From Data Scraping to Deployment with CI/CD Integration](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model)
-<br>
+
 <div align="center">
    <span class="label"><a href="https://github.com/mm-mazhar/Scraping-Zameen.com" target="blank"><img alt="Github Data Scraping Repo" src="https://img.shields.io/badge/Github-Data%20Scraping%20Repo-blue"></a></span>
    <span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/real-state-website-data" target="blank"><img alt="Download Data From Kaggle" src="https://img.shields.io/badge/kaggle-Data-blue"></a></span>
@@ -104,7 +104,7 @@ This is simple example of twitter API implementation to extract on going twitter
    <span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post" target="_blank"><img alt="Railway APP" src="https://img.shields.io/badge/Railway-000000?style=Flat&logo=Railway"/></a></span>
    <span class="label"><a href="https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model/tree/main/5.deploying_with_containers" target="_blank"><img src="https://img.shields.io/badge/Docker-000000?style=Flat&logo=Docker"/></a></span> 
 </div>
-                    
+<br>                
 <table style="width:100%" align="center">
 <tr>
   <td><img src="https://i.imgur.com/o6lW6XL.png" alt="Image" width="550px" height=260px/></td>
