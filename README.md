@@ -92,6 +92,24 @@ This is simple example of twitter API implementation to extract on going twitter
   </tr>
 </table>
 
+## Machine Learning
+
+### :palm_tree: [End-to-End Regression Model Pipeline Development with FastAPI: From Data Scraping to Deployment with CI/CD Integration](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model)
+
+Key Features: 
+- Comprehensive end-to-end solution for real estate data analysis and machine learning model deployment
+- Collection of real estate data from a website and thorough data processing and cleaning
+- Feature engineering using popular libraries like pandas, numpy, SK-Learn, and Feature Engine
+- Building a robust ML pipeline with Lasso Regression Model training and fine-tuning
+- Packaging and uploading the model to PyPi for easy integration and deployment
+- Implementation of software engineering practices with emphasis on testing using Pytest and Tox
+- Exposing the trained ML model as an API using FastAPI, a modern and efficient web framework
+- Continuous integration and deployment with CircleCI for automated building, testing, and deployment
+- Utilizing Docker for streamlined deployment to the Railway Platform
+- Encapsulation of the entire application, including dependencies and environment, within a Docker container
+- Consistency across different environments, easy reproducibility, and simplified deployment with Docker
+- Providing a scalable and efficient solution for real estate professionals to gain valuable insights and make data-driven decisions in the real estate market.
+
 ## Deep Learning
 
 ### :palm_tree: Image Classification
