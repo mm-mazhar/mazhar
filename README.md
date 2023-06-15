@@ -112,7 +112,7 @@ This is simple example of twitter API implementation to extract on going twitter
  <span class="label"><img alt="CircleCI" src="https://img.shields.io/circleci/build/github/mm-mazhar/Deploying-ML-Lasso-Regression-Model/main?logo=circleci&style=plastic"></span>
  <span class="label"><img src="https://img.shields.io/badge/Railway-000000?style=plastic&logo=Railway"/></span>
  <span class="label"><img src="https://img.shields.io/badge/Docker-000000?style=plastic&logo=Docker"/></span> 
-</div>div>
+</div>
 
 Key Features
 - Comprehensive end-to-end solution for real estate data analysis and machine learning model deployment.
