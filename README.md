@@ -94,7 +94,7 @@ This is simple example of twitter API implementation to extract on going twitter
 ## Machine Learning
 
 ### :palm_tree: [End-to-End Regression Model Pipeline](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model)
-#### From Data Scraping to Deployment: using, PyPI Model Packaging, FastAPI, Railway, Docker with CI/CD Integration
+### From Data Scraping to Deployment: using, PyPI Model Packaging, FastAPI, Railway, Docker with CI/CD Integration
 
 <div align="center">
    <span class="label"><a href="https://github.com/mm-mazhar/Scraping-Zameen.com" target="blank"><img alt="Github Data Scraping Repo" src="https://img.shields.io/badge/Github-Data%20Scraping%20Repo-blue"></a></span>
