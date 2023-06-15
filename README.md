@@ -96,10 +96,9 @@ This is simple example of twitter API implementation to extract on going twitter
 
 ### :palm_tree: [End-to-End Regression Model Pipeline Development with FastAPI: From Data Scraping to Deployment with CI/CD Integration](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model)
 
-Click on the image to see full view.
 <table style="width:100%" align="center">
 <tr>
-  <td><img src="https://i.imgur.com/n8tEwXy.png" alt="Image" width="550px" height=260px/></td>
+  <td><img src="https://i.imgur.com/o6lW6XL.png" alt="Image" width="550px" height=260px/></td>
   </tr>
 </table>
 
