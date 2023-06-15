@@ -94,7 +94,7 @@ This is simple example of twitter API implementation to extract on going twitter
 ## Machine Learning
 
 ### :palm_tree: [End-to-End Regression Model Pipeline Development with FastAPI: From Data Scraping to Deployment with CI/CD Integration](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model)
-
+<br>
 <div align="center">
    <span class="label"><a href="https://github.com/mm-mazhar/Scraping-Zameen.com" target="blank"><img alt="Github Data Scraping Repo" src="https://img.shields.io/badge/Github-Data%20Scraping%20Repo-blue"></a></span>
    <span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/real-state-website-data" target="blank"><img alt="Download Data From Kaggle" src="https://img.shields.io/badge/kaggle-Data-blue"></a></span>
