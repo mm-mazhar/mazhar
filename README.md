@@ -50,7 +50,6 @@
 * [DASHBOARD Twitter Dash Plotly App](https://github.com/mazqoty/Dashboard-Twitter-Analytics)
 This is simple example of twitter API implementation to extract on going twitter trends in different countries, recent searches, user's info, and user's tweet. This dashboard is made only for educational purpose. See 👀 it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
  
-  
 <table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="200px" height=100px/></td>
@@ -101,6 +100,16 @@ This is simple example of twitter API implementation to extract on going twitter
   <td><img src="https://i.imgur.com/o6lW6XL.png" alt="Image" width="550px" height=260px/></td>
   </tr>
 </table>
+
+<div align="center">
+ <span class="label"><a href="https://github.com/mm-mazhar/Scraping-Zameen.com"><img alt="Github Data Scraping Repo" src="https://img.shields.io/badge/Github-Data%20Scraping%20Repo-blue"></a></span>
+ <span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/real-state-website-data"><img alt="Download Data From Kaggle" src="https://img.shields.io/badge/kaggle-Data-blue"></a></span>
+ <span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span>
+ <span class="label"><img alt="PyPI" src="https://img.shields.io/pypi/v/lasso-regression-model?logo=PyPi&style=plastic"></span>
+ <span class="label"><img alt="CircleCI" src="https://img.shields.io/circleci/build/github/mm-mazhar/Deploying-ML-Lasso-Regression-Model/main?logo=circleci&style=plastic"> </span>
+ <span class="label"><img src="https://img.shields.io/badge/Railway-000000?style=plastic&logo=Railway"/></span>
+ <span class="label"><img src="https://img.shields.io/badge/Docker-000000?style=plastic&logo=Docker"/></span></li>
+ </div>
 
 Key Features
 - Comprehensive end-to-end solution for real estate data analysis and machine learning model deployment.
