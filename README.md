@@ -218,6 +218,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 </table>
 
 ## Others
+* [Selenium: Random Proxy and User Agent](https://github.com/mm-mazhar/random_proxy_userAgent) It allows you to easily initialize a WebDriver, perform actions on a web page, with random proxy and user agents rotation and then properly close the WebDriver when done.
 * [PyAutoGUI | Random Mouse Clicks on Screen](https://github.com/mazqoty/PyAutoGUI-Random-Clicks-on-Screen) This is very small script, idea is to keep Colab Training Session Alive by random clicks on the screen
 * [Image Utility: OpenCV with Streamlit](https://github.com/mazqoty/openCVwithStreamlit) This is small image utility tool which resize images, record video from local  webcam, write text on images/video files/live feed, Take Pictures From Camera, Blending Images of same/different sizes etc.
 * [DICOM Image Resize](https://github.com/mazqoty/dicom_jpg_resize) It converts .dcm to .png and resize them.
