@@ -190,10 +190,11 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 ## GenAI
 
 * [Text to Speech](https://github.com/mm-mazhar/text_to_speech/tree/main) The Text to Speech (TTS) project is a Python-based application that converts text data from an Excel file into speech audio files. The system uses a pre-trained TTS model, providing users with the ability to customize various parameters, such as the selected TTS model, encoder configuration, and speaker information. The system integrates with the [Coqui TTS](https://github.com/coqui-ai/TTS) library, allowing users to leverage various TTS models for speech synthesis.
-  <table style="width:100%" align="center">
-  <tr>
-    <td><img src="https://i.imgur.com/Ku7jCo0.jpg"width="300px" height=100px/></td>
-  </tr>
+
+<table style="width:100%" align="center">
+ <tr>
+   <td><img src="https://i.imgur.com/Ku7jCo0.jpg"width="300px" height=100px/></td>
+ </tr>
 </table>
  
 ## :palm_tree: Natural Language Processing
