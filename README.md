@@ -196,6 +196,14 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
    <td><img src="https://i.imgur.com/Ku7jCo0.jpg"width="300px" height=100px/></td>
  </tr>
 </table>
+
+* [Abstract Summarizer](https://github.com/mm-mazhar/abstract_summarizer) The Abstract Summarizer project utilizes the power of the google/pegasus-xsum model from the Hugging Face Transformers library to provide an easy-to-use interface for summarizing text. This Streamlit app allows users to input text and receive concise summaries based on various parameters. Model tries to use new words during summarization process.
+
+<table style="width:100%" align="center">
+ <tr>
+   <td><img src="[https://i.imgur.com/Ku7jCo0.jpg](https://i.imgur.com/LgafbBh.jpg)"width="300px" height=100px/></td>
+ </tr>
+</table>
  
 ## :palm_tree: Natural Language Processing
 
