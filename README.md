@@ -193,7 +193,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 <table style="width:100%" align="center">
  <tr>
-   <td><img src="https://i.imgur.com/Ku7jCo0.jpg"width="300px" height=100px/></td>
+   <td><img src="https://i.imgur.com/Ku7jCo0.jpg" width="300px" height=100px/></td>
  </tr>
 </table>
 
@@ -201,7 +201,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 <table style="width:100%" align="center">
  <tr>
-   <td><img src="[https://i.imgur.com/Ku7jCo0.jpg](https://i.imgur.com/LgafbBh.jpg)"width="300px" height=100px/></td>
+   <td><img src="https://i.imgur.com/LgafbBh.jpg" width="300px" height=100px/></td>
  </tr>
 </table>
  
