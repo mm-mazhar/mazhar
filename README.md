@@ -120,9 +120,9 @@ Key Features
 - Building a robust ML pipeline with Lasso Regression Model training and fine-tuning.
 - Packaging and uploading the model to [PyPi](https://pypi.org/project/lasso-regression-model/) for easy integration and deployment.
 - Implementation of software engineering practices with emphasis on testing using Pytest and Tox.
-- Exposing the trained ML model as an API using FastAPI, a modern and efficient web framework. [Link to Deloyed API](https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post)
+- Exposing the trained ML model as an API using FastAPI, a modern and efficient web framework. [Link to Deloyed API](https://deploying-ml-lasso-regression-model.onrender.com)
 - Continuous integration and deployment with CircleCI for automated building, testing, and deployment.
-- Utilizing Docker for streamlined deployment to the Railway Platform.
+- Utilizing Docker for streamlined deployment to the Railway/Render Platform.
 - Encapsulation of the entire application, including dependencies and environment, within a Docker container.
 - Consistency across different environments, easy reproducibility, and simplified deployment with Docker.
 
