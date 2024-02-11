@@ -103,7 +103,7 @@ This is simple example of twitter API implementation to extract on going twitter
  <span class="label"><a href="https://deploying-ml-lasso-regression-model.onrender.com" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span>
    <span class="label"><a href="https://pypi.org/project/lasso-regression-model/" target="_blank"><img alt="PyPI" src="https://img.shields.io/pypi/v/lasso-regression-model?logo=PyPi&style=Flat"></a></span>
    <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="CircleCI" src="https://img.shields.io/circleci/build/github/mm-mazhar/Deploying-ML-Lasso-Regression-Model/main?logo=circleci&style=Flat"></a></span>
-   <span class="label"><a href="https://deploying-ml-lasso-regression-model.onrender.com" target="_blank"><img alt="Railway APP" src="https://img.shields.io/badge/Railway-000000?style=Flat&logo=Railway"/></a></span>
+   <span class="label"><a href="https://deploying-ml-lasso-regression-model.onrender.com" target="_blank"><img alt="Railway APP" src="https://img.shields.io/badge/Render-000000?style=Flat&logo=Render"/></a></span>
    <span class="label"><a href="https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model/tree/main/5.deploying_with_containers" target="_blank"><img src="https://img.shields.io/badge/Docker-000000?style=Flat&logo=Docker"/></a></span> 
 </div>
 <br>                
