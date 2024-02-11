@@ -93,8 +93,8 @@ This is simple example of twitter API implementation to extract on going twitter
 
 ## Machine Learning
 
-### :palm_tree: [End-to-End Regression Model Pipeline](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model)
-### From Data Scraping to Deployment: using, PyPI Model Packaging, FastAPI, Railway, Docker with CI/CD Integration.
+### :palm_tree: [End-to-End Regression Model Pipeline](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model-Render)
+### From Data Scraping to Deployment: using, PyPI Model Packaging, FastAPI, Railway/Render
 
 <div align="center">
    <span class="label"><a href="https://github.com/mm-mazhar/Scraping-Zameen.com" target="blank"><img alt="Github Data Scraping Repo" src="https://img.shields.io/badge/Github-Data%20Scraping%20Repo-blue"></a></span>
@@ -123,8 +123,6 @@ Key Features
 - Exposing the trained ML model as an API using FastAPI, a modern and efficient web framework. [Link to Deloyed API](https://deploying-ml-lasso-regression-model.onrender.com)
 - Continuous integration and deployment with CircleCI for automated building, testing, and deployment.
 - Utilizing Docker for streamlined deployment to the Railway/Render Platform.
-- Encapsulation of the entire application, including dependencies and environment, within a Docker container.
-- Consistency across different environments, easy reproducibility, and simplified deployment with Docker.
 
 ## Deep Learning
 
