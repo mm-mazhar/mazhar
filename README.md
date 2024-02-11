@@ -93,7 +93,7 @@ This is simple example of twitter API implementation to extract on going twitter
 
 ## Machine Learning
 
-### :palm_tree: [End-to-End Regression Model Pipeline](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model-Render)
+### :palm_tree: [Regression Model Pipeline](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model-Render)
 ### From Data Scraping to Deployment: using, PyPI Model Packaging, FastAPI, Railway/Render
 
 <div align="center">
@@ -114,7 +114,7 @@ This is simple example of twitter API implementation to extract on going twitter
 </table>
 
 Key Features
-- Comprehensive end-to-end solution for real estate data analysis and machine learning model deployment.
+- Comprehensive solution for real estate data analysis and machine learning model deployment.
 - Collection of data via scraping a real estate website, data processing and cleaning. [Data upload to Kaggle](https://www.kaggle.com/datasets/mazhar01/real-state-website-data). [Data Scraping Github repo](https://github.com/mm-mazhar/Scraping-Zameen.com)
 - Feature engineering using popular libraries like pandas, numpy, SK-Learn, and Feature Engine.
 - Building a robust ML pipeline with Lasso Regression Model training and fine-tuning.
