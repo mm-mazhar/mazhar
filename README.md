@@ -121,8 +121,6 @@ Key Features
 - Packaging and uploading the model to [PyPi](https://pypi.org/project/lasso-regression-model/) for easy integration and deployment.
 - Implementation of software engineering practices with emphasis on testing using Pytest and Tox.
 - Exposing the trained ML model as an API using FastAPI, a modern and efficient web framework. [Link to Deloyed API](https://deploying-ml-lasso-regression-model.onrender.com)
-- Continuous integration and deployment with CircleCI for automated building, testing, and deployment.
-- Utilizing Docker for streamlined deployment to the Railway/Render Platform.
 
 ## Deep Learning
 
