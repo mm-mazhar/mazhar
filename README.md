@@ -6,7 +6,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/m_mazqoty_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazqoty01" width="30" height="30" /></a>
+<a href="https://twitter.com/m_mazhar_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazqoty01" width="30" height="30" /></a>
 <a href="https://kaggle.com/mazhar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mazhar01" width="30" height="30" /></a>
  <a href="mazqoty.01@gmail.com*" target="blank" width="30" height="30">@</a>
 </p>
