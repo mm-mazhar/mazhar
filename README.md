@@ -99,7 +99,7 @@ This is simple example of twitter API implementation to extract on going twitter
 
 <div align="center">
    <span class="label"><a href="https://github.com/maria-fisher/Urban-Agriculture-in-Milan" target="blank"><img alt="Identifying Potential Areas for Urban Agriculture in Milan - Italy Repo" src="https://img.shields.io/badge/Github-Repo-blue"></a></span>
-   <span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/identify-potential-areas-for-urban-agriculture/data" target="blank"><img alt="Collected Dataset" src="https://img.shields.io/badge/kaggle-Data-blue"></a></span>
+   <span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/identify-potential-areas-for-urban-agriculture/data" target="blank"><img alt="Collected Dataset" src="https://img.shields.io/badge/Collected%20Dataset-blue"></a></span>
 <!--    <span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span> -->
    <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-356c9b"/></a></span>
    <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/JavaScript-efd81d"/></a></span>
