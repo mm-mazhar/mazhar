@@ -140,7 +140,7 @@ Key Features
 <br>                
 <table style="width:100%" align="center">
 <tr>
-  <td><img src="https://i.imgur.com/o6lW6XL.png" alt="Image" width="550px" height=260px/></td>
+  <td><a href="https://www.omdena.com/chapter-challenges/identifying-potential-areas-for-urban-agriculture-in-milan-italy" target="_blank"><img src="https://i.imgur.com/o6lW6XL.png" alt="Image" width="550px" height=260px/></td>
   </tr>
 </table>
 
