@@ -114,7 +114,7 @@ This is simple example of twitter API implementation to extract on going twitter
   <td><a href="https://www.omdena.com/chapter-challenges/identifying-potential-areas-for-urban-agriculture-in-milan-italy" target="_blank"><img src="https://i.imgur.com/1y9gnjk.jpg" alt="Image" width="200" height=100px/></td>
   <td><a href="https://drive.google.com/file/d/1iAeaTzuRiVOMaBhEHjqKjItOnK9r9FKy/edit" target="_blank"><img src="https://i.imgur.com/JFpCniv.jpg" alt="Image" width="200" height=100px/></td>
   <td><a href="" target="_blank"><img src="https://i.imgur.com/CZooZfs.jpg" alt="Image" width="200" height=100px/></td>
-  <td><a href="" target="_blank"><img src="" alt="Image" width="200" height=100px/></td>
+  <td><img src="" alt="Image" width="200" height=100px/></td>
   </tr>
 </table>
 
