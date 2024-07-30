@@ -94,6 +94,35 @@ This is simple example of twitter API implementation to extract on going twitter
 
 ## Machine Learning
 
+### : palm_tee: [Identifying Potential Areas for Urban Agriculture in Milan - Italy](https://github.com/maria-fisher/Urban-Agriculture-in-Milan)
+### Contributed mainly in task 1 of the Omdena challenge, which includes, data collection from Google Earth Engine, EDA and visualization, unsupervised modeling and web app development.
+
+<div align="center">
+   <span class="label"><a href="https://github.com/maria-fisher/Urban-Agriculture-in-Milan" target="blank"><img alt="Identifying Potential Areas for Urban Agriculture in Milan - Italy Repo" src="https://img.shields.io/badge/Github-Data%20Scraping%20Repo-blue"></a></span>
+   <span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/real-state-website-data" target="blank"><img alt="Download Data From Kaggle" src="https://img.shields.io/badge/kaggle-Data-blue"></a></span>
+<!--    <span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span> -->
+ <span class="label"><a href="https://deploying-ml-lasso-regression-model.onrender.com" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span>
+   <span class="label"><a href="https://pypi.org/project/lasso-regression-model/" target="_blank"><img alt="PyPI" src="https://img.shields.io/pypi/v/lasso-regression-model?logo=PyPi&style=Flat"></a></span>
+   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="CircleCI" src="https://img.shields.io/circleci/build/github/mm-mazhar/Deploying-ML-Lasso-Regression-Model/main?logo=circleci&style=Flat"></a></span>
+   <span class="label"><a href="https://deploying-ml-lasso-regression-model.onrender.com" target="_blank"><img alt="Railway APP" src="https://img.shields.io/badge/Render-000000?style=Flat&logo=Render"/></a></span>
+  
+</div>
+<br>                
+<table style="width:100%" align="center">
+<tr>
+  <td><img src="https://i.imgur.com/o6lW6XL.png" alt="Image" width="550px" height=260px/></td>
+  </tr>
+</table>
+
+Key Features
+- Comprehensive solution for real estate data analysis and machine learning model deployment.
+- Collection of data via scraping a real estate website, data processing and cleaning. [Data upload to Kaggle](https://www.kaggle.com/datasets/mazhar01/real-state-website-data). [Data Scraping Github repo](https://github.com/mm-mazhar/Scraping-Zameen.com)
+- Feature engineering using popular libraries like pandas, numpy, SK-Learn, and Feature Engine.
+- Building a robust ML pipeline with Lasso Regression Model training and fine-tuning.
+- Packaging and uploading the model to [PyPi](https://pypi.org/project/lasso-regression-model/) for easy integration and deployment.
+- Implementation of software engineering practices with emphasis on testing using Pytest and Tox.
+- Exposing the trained ML model as an API using FastAPI, a modern and efficient web framework. [Link to Deloyed API](https://deploying-ml-lasso-regression-model.onrender.com)
+
 ### :palm_tree: [Regression Model Pipeline](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model-Render)
 ### From Data Scraping to Deployment: using, PyPI Model Packaging, FastAPI, Railway/Render
 
