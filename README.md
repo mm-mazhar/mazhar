@@ -102,9 +102,12 @@ This is simple example of twitter API implementation to extract on going twitter
    <span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/real-state-website-data" target="blank"><img alt="Download Data From Kaggle" src="https://img.shields.io/badge/kaggle-Data-blue"></a></span>
 <!--    <span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span> -->
  <span class="label"><a href="https://deploying-ml-lasso-regression-model.onrender.com" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span>
-   <span class="label"><a href="https://pypi.org/project/lasso-regression-model/" target="_blank"><img alt="PyPI" src="https://img.shields.io/pypi/v/lasso-regression-model?logo=PyPi&style=Flat"></a></span>
-   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="CircleCI" src="https://img.shields.io/circleci/build/github/mm-mazhar/Deploying-ML-Lasso-Regression-Model/main?logo=circleci&style=Flat"></a></span>
-   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/python_3.10-blue"/></a></span>
+   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-356c9b"/></a></span>
+   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/JavaScript-efd81d"/></a></span>
+   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Streamlit-f74949"/></a></span>
+   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Geographic%20Information%20System-c39f0b
+"/></a></span>
+   
   
 </div>
 <br>                
