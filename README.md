@@ -98,7 +98,7 @@ This is simple example of twitter API implementation to extract on going twitter
 ### Contributed mainly in task 1 of the Omdena challenge, which includes, data collection from Google Earth Engine, EDA and visualization, unsupervised modeling and web app development.
 
 <div align="center">
-   <span class="label"><a href="https://github.com/maria-fisher/Urban-Agriculture-in-Milan" target="blank"><img alt="Identifying Potential Areas for Urban Agriculture in Milan - Italy Repo" src="https://img.shields.io/badge/Github-Data%20Scraping%20Repo-blue"></a></span>
+   <span class="label"><a href="https://github.com/maria-fisher/Urban-Agriculture-in-Milan" target="blank"><img alt="Identifying Potential Areas for Urban Agriculture in Milan - Italy Repo" src="https://img.shields.io/badge/Github-Repo-blue"></a></span>
    <span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/real-state-website-data" target="blank"><img alt="Download Data From Kaggle" src="https://img.shields.io/badge/kaggle-Data-blue"></a></span>
 <!--    <span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span> -->
  <span class="label"><a href="https://deploying-ml-lasso-regression-model.onrender.com" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span>
