@@ -94,7 +94,7 @@ This is simple example of twitter API implementation to extract on going twitter
 
 ## Machine Learning
 
-### : palm_tee: [Identifying Potential Areas for Urban Agriculture in Milan - Italy](https://github.com/maria-fisher/Urban-Agriculture-in-Milan)
+### :palm_tree: [Identifying Potential Areas for Urban Agriculture in Milan - Italy](https://github.com/maria-fisher/Urban-Agriculture-in-Milan)
 ### Contributed mainly in task 1 of the Omdena challenge, which includes, data collection from Google Earth Engine, EDA and visualization, unsupervised modeling and web app development.
 
 <div align="center">
