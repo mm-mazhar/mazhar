@@ -113,19 +113,17 @@ This is simple example of twitter API implementation to extract on going twitter
 <tr>
   <td><a href="https://www.omdena.com/chapter-challenges/identifying-potential-areas-for-urban-agriculture-in-milan-italy" target="_blank"><img src="https://i.imgur.com/1y9gnjk.jpg" alt="Image" width="200" height=100px/></td>
   <td><a href="https://drive.google.com/file/d/1iAeaTzuRiVOMaBhEHjqKjItOnK9r9FKy/edit" target="_blank"><img src="https://i.imgur.com/JFpCniv.jpg" alt="Image" width="200" height=100px/></td>
-  <td><a href="" target="_blank"><img src="https://i.imgur.com/CZooZfs.jpg" alt="Image" width="200" height=100px/></td>
   <td><img src="https://i.imgur.com/CZooZfs.jpg" width="200px" height=100px/></td>
   </tr>
 </table>
 
-Key Features
-- Comprehensive solution for real estate data analysis and machine learning model deployment.
-- Collection of data via scraping a real estate website, data processing and cleaning. [Data upload to Kaggle](https://www.kaggle.com/datasets/mazhar01/real-state-website-data). [Data Scraping Github repo](https://github.com/mm-mazhar/Scraping-Zameen.com)
-- Feature engineering using popular libraries like pandas, numpy, SK-Learn, and Feature Engine.
-- Building a robust ML pipeline with Lasso Regression Model training and fine-tuning.
-- Packaging and uploading the model to [PyPi](https://pypi.org/project/lasso-regression-model/) for easy integration and deployment.
-- Implementation of software engineering practices with emphasis on testing using Pytest and Tox.
-- Exposing the trained ML model as an API using FastAPI, a modern and efficient web framework. [Link to Deloyed API](https://deploying-ml-lasso-regression-model.onrender.com)
+Key Contributions
+- Wrote Python scripts to download climate data from Google Earth Engine.
+- Curated and analysed satellite imagery and tabular data for Milan's Zones 4 and 9.
+- Also created comprehensive Jupyter Notebooks for EDA and data visualisation.
+- Spatial joining, interpolation using kriging.
+- Development of unsupervised machine learning model.
+- Streamlit Web App Improvements.
 
 ### :palm_tree: [Regression Model Pipeline](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model-Render)
 ### From Data Scraping to Deployment: using, PyPI Model Packaging, FastAPI, Railway/Render
