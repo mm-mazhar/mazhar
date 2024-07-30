@@ -103,7 +103,7 @@ This is simple example of twitter API implementation to extract on going twitter
 <!--    <span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span> -->
    <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-356c9b"/></a></span>
    <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/JavaScript-efd81d"/></a></span>
-   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-blue"/></a></span>
+   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Streamlit-ff2b2b"/></a></span>
    <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/GIS-c39f0b"/></a></span>
    
   
@@ -111,10 +111,10 @@ This is simple example of twitter API implementation to extract on going twitter
 <br>                
 <table style="width:100%" align="center">
 <tr>
-  <td><a href="" target="_blank"><img src="https://i.imgur.com/1y9gnjk.jpg" alt="Image" width="200" height=100px/></td>
-   <td><a href="https://drive.google.com/file/d/1iAeaTzuRiVOMaBhEHjqKjItOnK9r9FKy/edit" target="_blank"><img src="https://i.imgur.com/nB6UV3w.jpg" alt="Image" width="200" height=100px/></td>
-   <td><a href="https://www.omdena.com/chapter-challenges/identifying-potential-areas-for-urban-agriculture-in-milan-italy" target="_blank"><img src="https://i.imgur.com/1y9gnjk.jpg" alt="Image" width="200" height=100px/></td>
-   <td><a href="https://www.omdena.com/chapter-challenges/identifying-potential-areas-for-urban-agriculture-in-milan-italy" target="_blank"><img src="https://i.imgur.com/JFpCniv.jpg" alt="Image" width="200" height=100px/></td>
+  <td><a href="https://www.omdena.com/chapter-challenges/identifying-potential-areas-for-urban-agriculture-in-milan-italy" target="_blank"><img src="https://i.imgur.com/1y9gnjk.jpg" alt="Image" width="200" height=100px/></td>
+  <td><a href="https://drive.google.com/file/d/1iAeaTzuRiVOMaBhEHjqKjItOnK9r9FKy/edit" target="_blank"><img src="https://i.imgur.com/JFpCniv.jpg" alt="Image" width="200" height=100px/></td>
+  <td><a href="" target="_blank"><img src="https://i.imgur.com/CZooZfs.jpg" alt="Image" width="200" height=100px/></td>
+  <td><a href="" target="_blank"><img src="" alt="Image" width="200" height=100px/></td>
   </tr>
 </table>
 
