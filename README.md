@@ -242,7 +242,7 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 * [Web Scraping Ecommerce Website](https://github.com/mazqoty/Scraping-Carrefour-E-commerce) Over 5K product data scraped from Carrefour including Images.
 * [Web Scraping Ecommerce Website](https://github.com/mazqoty/Scraping-Lulu-Hypermarket-E-commerce) Over 10K products data scraped from Lu-Lu Hypermarket. It also includes   images of the products.
-* [Web Scraping Real State Website](https://github.com/mazqoty/Scraping-Zameen.com) It's the big real state web site. I scraped more than 100k of product data.
+* [Web Scraping Real State Website](https://github.com/mm-mazhar/Scraping-Zameen.com) It's the big real state web site. I scraped more than 100k of product data.
 
 ## Python Packages
 
