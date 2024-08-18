@@ -95,6 +95,11 @@ This is simple example of twitter API implementation to extract on going twitter
 ## Microsoft Power BI
 
 ### :palm_tree: [PowerBI | Super Store Sales Analysis](https://github.com/mm-mazhar/PowerBI-Super-Store-Sales-Analysis)
+<table style="width:100%" align="center">
+<tr>
+  <td><a href="https://i.imgur.com/e84Tnnj.png" target="_blank"><img src="https://i.imgur.com/e84Tnnj.png" alt="Image" width="200" height=100px/></td>
+  </tr>
+</table>
 ### :palm_tree: [PowerBI | NY Property Sales Analysis](https://github.com/mm-mazhar/PowerBI-NY-Property-Sales-Analysis)
 ### :palm_tree: [PowerBI | Bank Customer Churn Analysis](https://github.com/mm-mazhar/PowerBI-Bank-Customers-Churn-Analysis)
 
