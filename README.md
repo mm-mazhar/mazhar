@@ -301,7 +301,6 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Front End Web Development, Django
-<!--
   ### :palm_tree: Portfolio Website (Django)
   * [Portfolio Website](https://github.com/mm-mazhar/django-portfolio-website) This is a django based website deployed on <a href="https://mmazhar.onrender.com" target="_blank">render.com</a>
   <table style="width:100%">
@@ -311,7 +310,6 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
   </table>
   
   ### :palm_tree: HTML, CSS, Java Script
-  -->
   
   * These are small pieces of codes consists of HTML, CSS and pure JS
   
