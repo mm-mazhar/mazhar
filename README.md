@@ -117,6 +117,29 @@ This is simple example of twitter API implementation to extract on going twitter
 
 ## Machine Learning
 
+### :palm_tree: [3D Roof Reconstruction with Computer Vision for Solar Energy Optimization](https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization)
+### Contributed mainly in task 1 of the Omdena challenge, which includes, data collection from Google Earth Engine, EDA and visualization, unsupervised modeling and web app development.
+
+<div align="center">
+   <span class="label"><a href="https://github.com/mm-mazhar/IECO" target="_blank"><img alt="3D Roof Reconstruction with Computer Vision" src="https://img.shields.io/badge/Github-Repo-blue"></a></span>
+   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-356c9b"/></a></span>
+</div>
+<br>                
+<table style="width:100%" align="center">
+<tr>
+  <td><a href="https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization" target="_blank"><img src="https://i.imgur.com/CcEtiT5.jpg" alt="Image" width="200" height=100px /></td>
+  <td><img src="https://i.imgur.com/Bz4pewG.jpg" width="200px" height=100px /></td>
+  </tr>
+</table>
+
+Key Contributions
+- Wrote Python scripts to download climate data from Google Earth Engine.
+- Curated and analysed satellite imagery and tabular data for Milan's Zones 4 and 9.
+- Also created comprehensive Jupyter Notebooks for EDA and data visualisation.
+- Spatial joining, interpolation using kriging.
+- Development of unsupervised machine learning model.
+- Streamlit Web App Improvements.
+
 ### :palm_tree: [Identifying Potential Areas for Urban Agriculture in Milan - Italy](https://www.omdena.com/chapter-challenges/identifying-potential-areas-for-urban-agriculture-in-milan-italy)
 ### Contributed mainly in task 1 of the Omdena challenge, which includes, data collection from Google Earth Engine, EDA and visualization, unsupervised modeling and web app development.
 
