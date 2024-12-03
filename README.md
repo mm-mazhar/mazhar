@@ -123,6 +123,7 @@ This is simple example of twitter API implementation to extract on going twitter
 <div align="center">
    <span class="label"><a href="https://github.com/mm-mazhar/IECO" target="_blank"><img alt="3D Roof Reconstruction with Computer Vision" src="https://img.shields.io/badge/Github-Repo-blue"></a></span>
    <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-356c9b"/></a></span>
+   <span class="label"><a href="https://github.com/OmdenaAI/IECO" target="_blank"><img alt="Main `IECO` Github Repo" src="https://img.shields.io/badge/Github-Repo-blue"></a></span>
 </div>
 <br>                
 <table style="width:100%" align="center">
