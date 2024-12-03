@@ -133,12 +133,12 @@ This is simple example of twitter API implementation to extract on going twitter
 </table>
 
 Key Contributions
-- Wrote Python scripts to download climate data from Google Earth Engine.
-- Curated and analysed satellite imagery and tabular data for Milan's Zones 4 and 9.
-- Also created comprehensive Jupyter Notebooks for EDA and data visualisation.
-- Spatial joining, interpolation using kriging.
-- Development of unsupervised machine learning model.
-- Streamlit Web App Improvements.
+- [My Contribution](https://github.com/mm-mazhar/IECO/tree/main/modeling/point_cloud_segmentation)
+- PointNet-based segmentation model (PointNetSeg) for point cloud data.
+- The model is designed to classify each point in a point cloud into a predefined set of classes, leveraging a combination of feature and spatial transformations.
+- The PointNetSeg model processes the transformed features to perform point-wise segmentation. The model’s final layer predicts the class of each point.
+  - Input: Point cloud of shape (batch_size, num_points, 3), where each point has 3 coordinates (x, y, z).
+  - Output: Class scores for each point in the point cloud, with a shape of (batch_size, num_classes, num_points).
 
 ### :palm_tree: [Identifying Potential Areas for Urban Agriculture in Milan - Italy](https://www.omdena.com/chapter-challenges/identifying-potential-areas-for-urban-agriculture-in-milan-italy)
 ### Contributed mainly in task 1 of the Omdena challenge, which includes, data collection from Google Earth Engine, EDA and visualization, unsupervised modeling and web app development.
