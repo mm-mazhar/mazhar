@@ -118,7 +118,7 @@ This is simple example of twitter API implementation to extract on going twitter
 ## Machine Learning
 
 ### :palm_tree: [3D Roof Reconstruction with Computer Vision for Solar Energy Optimization](https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization)
-### Contributed mainly in task 1 of the Omdena challenge, which includes, data collection from Google Earth Engine, EDA and visualization, unsupervised modeling and web app development.
+### The ultimate objective of this project is to automate and streamline the process of creating 3D roof models for photovoltaic installations using AI, significantly enhancing the deployment of solar energy systems. This initiative will utilize aerial imagery and point cloud data to develop a sophisticated AI model capable of precise 3D roof reconstruction.
 
 <div align="center">
    <span class="label"><a href="https://github.com/mm-mazhar/IECO" target="_blank"><img alt="3D Roof Reconstruction with Computer Vision" src="https://img.shields.io/badge/Github-Repo-blue"></a></span>
