@@ -117,6 +117,32 @@ This is simple example of twitter API implementation to extract on going twitter
 
 ## Machine Learning
 
+### :palm_tree: [Soil Nutrient Prediction for Enhanced Fertilizer Recommendations](https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations)
+###  This project aims to deliver a sophisticated AI-driven solution that revolutionizes soil nutrient prediction for smallholder farmers. By providing a more efficient, accurate, and scalable system, this initiative promises substantial benefits in improving agricultural productivity, reducing environmental impact from fertilizer misuse, and enhancing economic outcomes for farmers.
+Partnered with [IPAGE](https://ipageglobal.com/))
+
+<div align="center">
+   <span class="label"><a href="https://github.com/mm-mazhar/IPAGE" target="_blank"><img alt="IPAGE" src="https://img.shields.io/badge/Github-Repo-blue"></a></span>
+   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-356c9b"/></a></span>
+   <span class="label"><a href="https://github.com/OmdenaAI/ipage" target="_blank"><img alt="Main `IPAGE` Github Repo" src="https://img.shields.io/badge/Main `IPAGE` Github-Repo-blue"></a></span>
+   <span class="label"><a href="https://ipage.onrender.com/" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI%20API-blue"></a></span>
+   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Streamlit-ff2b2b"/></a></span>
+</div>
+<br>                
+<table style="width:100%" align="center">
+<tr>
+  <td><a href="https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization" target="_blank"><img src="https://i.imgur.com/CcEtiT5.jpg" alt="Image" width="200" height=100px /></td>
+  <td><img src="https://i.imgur.com/Bz4pewG.jpg" width="200px" height=100px /></td>
+  </tr>
+</table>
+
+Key Contributions
+- [My Contribution](https://github.com/mm-mazhar/IECO/tree/main/modeling/point_cloud_segmentation) PointNet-based segmentation model (PointNetSeg) for point cloud data.
+- EDA
+- Model Development for Soil Nutrients Boron, Zinc, SOC with Experiment Tracking in MLFlow.
+- API Development Using FastAPI.
+- Streamlit App Development for PoC.
+
 ### :palm_tree: [3D Roof Reconstruction with Computer Vision for Solar Energy Optimization](https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization)
 ### The ultimate objective of this project is to automate and streamline the process of creating 3D roof models for photovoltaic installations using AI, significantly enhancing the deployment of solar energy systems. This initiative will utilize aerial imagery and point cloud data to develop a sophisticated AI model capable of precise 3D roof reconstruction.
 Partnered with [IECO](https://ieco.io/)
@@ -125,6 +151,9 @@ Partnered with [IECO](https://ieco.io/)
    <span class="label"><a href="https://github.com/mm-mazhar/IECO" target="_blank"><img alt="3D Roof Reconstruction with Computer Vision" src="https://img.shields.io/badge/Github-Repo-blue"></a></span>
    <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-356c9b"/></a></span>
    <span class="label"><a href="https://github.com/OmdenaAI/IECO" target="_blank"><img alt="Main `IECO` Github Repo" src="https://img.shields.io/badge/Main `IECO` Github-Repo-blue"></a></span>
+   <span class="label"><a href="https://ipage-app.streamlit.app/" target="_blank"><img alt="Steamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit"></a></span>
+   <span class="label"><a href="https://ipage.onrender.com/" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=plastic&logo=FastAPI"></a></span>
+ <span class="label"><a href="javascript:void(0);" target="_blank"><img alt="MLFlow" src="https://img.shields.io/badge/MLFlow-000000%3Fstyle%3Dplastic%26logo%3Dmlflow"></a></span>
 </div>
 <br>                
 <table style="width:100%" align="center">
