@@ -117,7 +117,7 @@ This is simple example of twitter API implementation to extract on going twitter
 <table style="width:100%" align="center">
   <tr>
     <td><a href="https://github.com/mm-mazhar/PowerBI-Super-Store-Sales-Analysis" target="_blank"><img src="https://i.imgur.com/1M4qf94.png" width="180px" height=110px/></td>
-    <td><a href="https://github.com/mm-mazhar/PowerBI-Bank-Customers-Churn-Analysis" target="_blank"><img src="https://i.imgur.com/JUbjQUk.png" width="180px" height=110px/></td>
+    <td><a href="https://github.com/mm-mazhar/PowerBI-NY-Property-Sales-Analysis" target="_blank"><img src="https://i.imgur.com/JUbjQUk.png" width="180px" height=110px/></td>
     <td><a href="https://github.com/mm-mazhar/PowerBI-Bank-Customers-Churn-Analysis" target="_blank"><img src="https://i.imgur.com/e84Tnnj.png" width="180px" height=110px/></td>
   </tr>
 </table>
