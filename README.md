@@ -137,7 +137,6 @@ Partnered with [IPAGE](https://ipageglobal.com/))
 </table>
 
 Key Contributions
-- [My Contribution](https://github.com/mm-mazhar/IECO/tree/main/modeling/point_cloud_segmentation) PointNet-based segmentation model (PointNetSeg) for point cloud data.
 - EDA
 - Model Development for Soil Nutrients Boron, Zinc, SOC with Experiment Tracking in MLFlow.
 - API Development Using FastAPI.
@@ -149,8 +148,8 @@ Partnered with [IECO](https://ieco.io/)
 
 <div align="center">
    <span class="label"><a href="https://github.com/mm-mazhar/IECO" target="_blank"><img alt="3D Roof Reconstruction with Computer Vision" src="https://img.shields.io/badge/Github-Repo-blue"></a></span>
-   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-356c9b"/></a></span>
    <span class="label"><a href="https://github.com/OmdenaAI/IECO" target="_blank"><img alt="Main `IECO` Github Repo" src="https://img.shields.io/badge/Main `IECO` Github-Repo-blue"></a></span>
+   <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-356c9b"/></a></span>
    <span class="label"><a href="https://ipage-app.streamlit.app/" target="_blank"><img alt="Steamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit"></a></span>
    <span class="label"><a href="https://ipage.onrender.com/" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=plastic&logo=FastAPI"></a></span>
  <span class="label"><a href="javascript:void(0);" target="_blank"><img alt="MLFlow" src="https://img.shields.io/badge/MLFlow-000000%3Fstyle%3Dplastic%26logo%3Dmlflow"></a></span>
