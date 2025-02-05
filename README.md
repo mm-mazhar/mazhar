@@ -98,21 +98,30 @@ This is simple example of twitter API implementation to extract on going twitter
  <tr>
   <td style="border: none;">
     <a href="https://github.com/mm-mazhar/PowerBI-Super-Store-Sales-Analysis" target="_blank">
-      PowerBI Super Store Sales Analysis
+      :palm_tree: PowerBI Super Store Sales Analysis
     </a> 
   </td>
   <td style="border: none;">
     <a href="https://github.com/mm-mazhar/PowerBI-NY-Property-Sales-Analysis" target="_blank">
-      PowerBI NY Property Sales Analysis
+      :palm_tree: PowerBI NY Property Sales Analysis
     </a>
   </td>
   <td style="border: none;">
     <a href="https://github.com/mm-mazhar/PowerBI-Bank-Customers-Churn-Analysis" target="_blank">
-      PowerBI Bank Customers Churn Analysis
+      :palm_tree: PowerBI Bank Customers Churn Analysis
     </a>
   </td>
  </tr>
 </table>
+
+<table style="width:100%" align="center">
+  <tr>
+    <td><img src="https://i.imgur.com/Z1BwoRh.jpg" width="180px" height=110px/></td>
+    <td><img src="https://i.imgur.com/G45d60m.jpg" width="180px" height=110px/></td>
+    <td><img src="https://i.imgur.com/e84Tnnj.png" width="180px" height=110px/></td>
+  </tr>
+</table>
+
 
 ## Machine Learning
 
