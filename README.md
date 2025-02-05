@@ -43,8 +43,8 @@
 
 <table style="width:100%" align="center">
   <tr>
-    <td><img src="https://i.imgur.com/PwV2BEO.png" width="330px" height=200px/></td>
-    <td><img src="https://i.imgur.com/zQICMOE.gif" width="330px" height=200px/></td>
+    <td><img src="https://i.imgur.com/PwV2BEO.png" width="350px" height=200px/></td>
+    <td><img src="https://i.imgur.com/zQICMOE.gif" width="350px" height=200px/></td>
   </tr>
 </table>
 
