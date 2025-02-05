@@ -94,7 +94,7 @@ This is simple example of twitter API implementation to extract on going twitter
 
 ## Microsoft Power BI
 
-<table style="width:100%; align:center; border-collapse: collapse;">
+<table style="width:100%; align:center;>
  <tr>
   <td style="border: none;">
     <a href="https://github.com/mm-mazhar/PowerBI-Super-Store-Sales-Analysis" target="_blank">
@@ -108,7 +108,7 @@ This is simple example of twitter API implementation to extract on going twitter
   </td>
   <td style="border: none;">
     <a href="https://github.com/mm-mazhar/PowerBI-Bank-Customers-Churn-Analysis" target="_blank">
-      :palm_tree:PowerBI Bank Customers Churn Analysis
+      :palm_tree: PowerBI Bank Customers Churn Analysis
     </a>
   </td>
  </tr>
