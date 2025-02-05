@@ -125,9 +125,9 @@ Partnered with [IPAGE](https://ipageglobal.com/))
    <span class="label"><a href="https://github.com/mm-mazhar/IPAGE" target="_blank"><img alt="IPAGE" src="https://img.shields.io/badge/Github-Repo-blue"></a></span>
    <span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="Python 3.10" src="https://img.shields.io/badge/Python-356c9b"/></a></span>
    <span class="label"><a href="https://github.com/OmdenaAI/ipage" target="_blank"><img alt="Main `IPAGE` Github Repo" src="https://img.shields.io/badge/Main `IPAGE` Github-Repo-blue"></a></span>
-   <span class="label"><a href="https://ipage-app.streamlit.app/" target="_blank"><img alt="Steamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit"></a></span>
+   <span class="label"><a href="https://ipage-app.streamlit.app/" target="_blank"><img alt="Steamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit"></a></span>
    <span class="label"><a href="https://ipage.onrender.com/" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=FastAPI"></a></span>
- <span class="label"><a href="javascript:void(0);" target="_blank"><img alt="MLFlow" src="https://img.shields.io/badge/MLFlow-000000%3Fstyle%3Dflat%26logo%3Dmlflow"></a></span>
+ <span class="label"><a href="javascript:void(0);" target="_blank"><img alt="MLFlow" src="https://img.shields.io/badge/MLFlow-000000%3Flogo%3Dmlflow"></a></span>
 </div>
 <br>                
 <table style="width:100%" align="center">
