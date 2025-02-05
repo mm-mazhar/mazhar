@@ -134,8 +134,8 @@ Partnered with [IPAGE](https://ipageglobal.com/))
 <tr>
   <td><a href="https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations" target="_blank"><img src="https://i.imgur.com/g7C86mL.png" alt="Image" width="200" height=100px /></td>
   <td><img src="https://i.imgur.com/Bz4pewG.jpg" width="200px" height=100px /></td>
-  <td><img src="https://i.imgur.com/55ppCpt.png" width="200px" height=100px /></td>
-  <td><img src="https://i.imgur.com/ozgtFqd.png" width="200px" height=100px /></td>
+  <td><a href="https://ipage-app.streamlit.app/" target="_blank"><img src="https://i.imgur.com/55ppCpt.png" width="200px" height=100px /></td>
+  <td><a href="https://ipage.onrender.com/" target="_blank"><img src="https://i.imgur.com/ozgtFqd.png" width="200px" height=100px /></td>
   </tr>
 </table>
 
