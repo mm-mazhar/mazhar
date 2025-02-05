@@ -127,13 +127,15 @@ Partnered with [IPAGE](https://ipageglobal.com/))
    <span class="label"><a href="https://github.com/OmdenaAI/ipage" target="_blank"><img alt="Main `IPAGE` Github Repo" src="https://img.shields.io/badge/Main `IPAGE` Github-Repo-blue"></a></span>
    <span class="label"><a href="https://ipage-app.streamlit.app/" target="_blank"><img alt="Steamlit" src="https://img.shields.io/badge/Streamlit-000000?style=social&logo=streamlit"></a></span>
    <span class="label"><a href="https://ipage.onrender.com/" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=social&logo=FastAPI"></a></span>
- <span class="label"><a href="javascript:void(0);" target="_blank"><img alt="MLFlow" src="https://img.shields.io/badge/MLFlow-000000?style=social&logo=mlflow"></a></span>
+   <span class="label"><a href="javascript:void(0);" target="_blank"><img alt="MLFlow" src="https://img.shields.io/badge/MLFlow-000000?style=social&logo=mlflow"></a></span>
 </div>
 <br>                
 <table style="width:100%" align="center">
 <tr>
   <td><a href="https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations" target="_blank"><img src="https://i.imgur.com/g7C86mL.png" alt="Image" width="200" height=100px /></td>
   <td><img src="https://i.imgur.com/Bz4pewG.jpg" width="200px" height=100px /></td>
+  <td><img src="https://i.imgur.com/55ppCpt.png" width="200px" height=100px /></td>
+  <td><img src="https://i.imgur.com/ozgtFqd.png" width="200px" height=100px /></td>
   </tr>
 </table>
 
