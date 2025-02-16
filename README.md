@@ -303,6 +303,14 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
 
 ## GenAI
 
+* [RAG | WEBSITE CRAWLER](https://github.com/mm-mazhar/RAG_Crawler_App) Streamlit-based application that enables you to ask questions about documents and receive answers based on the content of those documents. It uses a Retrieval-Augmented Generation (RAG) pipeline to find relevant information within the document and generate accurate, context-aware responses.
+
+<table style="width:100%" align="center">
+ <tr>
+   <td><img src="https://i.imgur.com/cejiHpU.png" width="300px" height=100px/></td>
+ </tr>
+</table>
+
 * [Text to Speech](https://github.com/mm-mazhar/text_to_speech/tree/main) The Text to Speech (TTS) project is a Python-based application that converts text data from an Excel file into speech audio files. The system uses a pre-trained TTS model, providing users with the ability to customize various parameters, such as the selected TTS model, encoder configuration, and speaker information. The system integrates with the [Coqui TTS](https://github.com/coqui-ai/TTS) library, allowing users to leverage various TTS models for speech synthesis.
 
 <table style="width:100%" align="center">
