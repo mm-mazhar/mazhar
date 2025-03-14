@@ -17,111 +17,9 @@
 
 <hr>
 
-### Data Science | Machine Learning | Deep Learning | GenAI
+### Machine Learning | Deep Learning | Data Science | GenAI
 
 <hr>
-
- ## Data Science
-  
-  ### :palm_tree: Data Analysis and Visualization
-    
-  * [Data Analysis and Visualisation on E-Commerce Dataset](https://github.com/mazqoty/Data-Analysis-and-Visualization-on-Ecommerce-Dataset)
-  This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018. The data was collected from   various e-commerce merchants as part of a research study. Further details can be found on the following link 
-  https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset
-  
-  <table style="width:100%" align="center">
-  <tr>
-    <td><img src="https://i.imgur.com/G67RxAf.png" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/XHC20H8.png" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/dbdX6qJ.png" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/C0yOsUL.png" width="200px" height=100px/></td>
-  </tr>
-</table>
-  
-  * [COVID-19 DASHBOARD Django Plotly Dash App](https://github.com/mm-mazhar/Dashbaord-Covid19-Django-Plotly_Dash)
-  This COVID-19 Dashboard tracks covid-19 confirmed, deaths, recovered, active cases. It also contains vaccination analysis. The data was collected from various sources such as [CSSE at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) and [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations). This dashboard is made only for educational purpose. 
-
-<table style="width:100%" align="center">
-  <tr>
-    <td><img src="https://i.imgur.com/PwV2BEO.png" width="370px" height=200px/></td>
-    <td><img src="https://i.imgur.com/zQICMOE.gif" width="370px" height=200px/></td>
-  </tr>
-</table>
-
-* [DASHBOARD Twitter Dash Plotly App](https://github.com/mazqoty/Dashboard-Twitter-Analytics)
-This is simple example of twitter API implementation to extract on going twitter trends in different countries, recent searches, user's info, and user's tweet. This dashboard is made only for educational purpose. See 👀 it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
- 
-<table style="width:100%" align="center">
-  <tr>
-    <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="200px" height=100px/></td>
-  </tr>
-</table>
-
-* [Emergency - 911 Calls](https://github.com/mazqoty/Emergency_911_Calls)
-  This involves pandas, seaborn, plotly
-
-<table style="width:100%" align="center">
-  <tr>
-    <td><img src="https://i.imgur.com/jghN1PE.jpg" width="200px" height=100px/></td>
-    <td><img src="https://i.imgur.com/oLPajg0.jpg" width="200px" height=100px/></td>
-  </tr>
-</table>
-
-* [Chicago Divvy Bicycle Sharing Data](https://github.com/mazqoty/ChicagoDivvyBicycleSharingData)
-  This involves pandas, plotly
-
-<table style="width:100%" align="center">
-  <tr>
-    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="180px" height=100px/></td>
-    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="180px" height=100px/></td>
-    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="180px" height=100px/></td>
-  </tr>
-</table>
- 
- * [Walmart Sales Dataset of 45 stores](https://github.com/mazqoty/WalmartSalesDatasetof45stores)
-  This involves pandas, plotly
-
-<table style="width:100%" align="center">
-  <tr>
-    <td><img src="https://i.imgur.com/Z1BwoRh.jpg" width="180px" height=130px/></td>
-    <td><img src="https://i.imgur.com/G45d60m.jpg" width="180px" height=130px/></td>
-    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="180px" height=130px/></td>
-  </tr>
-</table>
-
-## Microsoft Power BI
-
-<table style="width:100%" align="center">
- <tr>
-  <td style="border: none;">
-    <a href="https://github.com/mm-mazhar/PowerBI-Super-Store-Sales-Analysis" target="_blank">
-      :palm_tree: PowerBI Super Store Sales Analysis
-    </a> 
-  </td>
-  <td style="border: none;">
-    <a href="https://github.com/mm-mazhar/PowerBI-NY-Property-Sales-Analysis" target="_blank">
-      :palm_tree: PowerBI NY Property Sales Analysis
-    </a>
-  </td>
-  <td style="border: none;">
-    <a href="https://github.com/mm-mazhar/PowerBI-Bank-Customers-Churn-Analysis" target="_blank">
-      :palm_tree: PowerBI Bank Customers Churn Analysis
-    </a>
-  </td>
- </tr>
-</table>
-
-<table style="width:100%" align="center">
-  <tr>
-    <td><a href="https://github.com/mm-mazhar/PowerBI-Super-Store-Sales-Analysis" target="_blank"><img src="https://i.imgur.com/1M4qf94.png" width="300px" height=210px/></td>
-    <td><a href="https://github.com/mm-mazhar/PowerBI-NY-Property-Sales-Analysis" target="_blank"><img src="https://i.imgur.com/JUbjQUk.png" width="300px" height=210px/></td>
-    <td><a href="https://github.com/mm-mazhar/PowerBI-Bank-Customers-Churn-Analysis" target="_blank"><img src="https://i.imgur.com/e84Tnnj.png" width="300px" height=210px/></td>
-  </tr>
-</table>
-
 
 ## Machine Learning
 
@@ -300,6 +198,108 @@ This Dataset is taken from Kaggle/Cifar-10 and Cifar-100 datasets: https://www.c
     <td><img src="https://i.imgur.com/8zv7x8n.jpg" width="200px" height=100px/></td>
     </tr>
 </table>
+
+## Data Science
+  
+  ### :palm_tree: Data Analysis and Visualization
+    
+  * [Data Analysis and Visualisation on E-Commerce Dataset](https://github.com/mazqoty/Data-Analysis-and-Visualization-on-Ecommerce-Dataset)
+  This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018. The data was collected from   various e-commerce merchants as part of a research study. Further details can be found on the following link 
+  https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset
+  
+  <table style="width:100%" align="center">
+  <tr>
+    <td><img src="https://i.imgur.com/G67RxAf.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/XHC20H8.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/dbdX6qJ.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/C0yOsUL.png" width="200px" height=100px/></td>
+  </tr>
+</table>
+  
+  * [COVID-19 DASHBOARD Django Plotly Dash App](https://github.com/mm-mazhar/Dashbaord-Covid19-Django-Plotly_Dash)
+  This COVID-19 Dashboard tracks covid-19 confirmed, deaths, recovered, active cases. It also contains vaccination analysis. The data was collected from various sources such as [CSSE at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) and [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations). This dashboard is made only for educational purpose. 
+
+<table style="width:100%" align="center">
+  <tr>
+    <td><img src="https://i.imgur.com/PwV2BEO.png" width="370px" height=200px/></td>
+    <td><img src="https://i.imgur.com/zQICMOE.gif" width="370px" height=200px/></td>
+  </tr>
+</table>
+
+* [DASHBOARD Twitter Dash Plotly App](https://github.com/mazqoty/Dashboard-Twitter-Analytics)
+This is simple example of twitter API implementation to extract on going twitter trends in different countries, recent searches, user's info, and user's tweet. This dashboard is made only for educational purpose. See 👀 it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
+ 
+<table style="width:100%" align="center">
+  <tr>
+    <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="200px" height=100px/></td>
+  </tr>
+</table>
+
+* [Emergency - 911 Calls](https://github.com/mazqoty/Emergency_911_Calls)
+  This involves pandas, seaborn, plotly
+
+<table style="width:100%" align="center">
+  <tr>
+    <td><img src="https://i.imgur.com/jghN1PE.jpg" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/oLPajg0.jpg" width="200px" height=100px/></td>
+  </tr>
+</table>
+
+* [Chicago Divvy Bicycle Sharing Data](https://github.com/mazqoty/ChicagoDivvyBicycleSharingData)
+  This involves pandas, plotly
+
+<table style="width:100%" align="center">
+  <tr>
+    <td><img src="https://i.imgur.com/QxXcqQz.jpg" width="180px" height=100px/></td>
+    <td><img src="https://i.imgur.com/ZxAPvXD.jpg" width="180px" height=100px/></td>
+    <td><img src="https://i.imgur.com/X5fRFeil.jpg" width="180px" height=100px/></td>
+  </tr>
+</table>
+ 
+ * [Walmart Sales Dataset of 45 stores](https://github.com/mazqoty/WalmartSalesDatasetof45stores)
+  This involves pandas, plotly
+
+<table style="width:100%" align="center">
+  <tr>
+    <td><img src="https://i.imgur.com/Z1BwoRh.jpg" width="180px" height=130px/></td>
+    <td><img src="https://i.imgur.com/G45d60m.jpg" width="180px" height=130px/></td>
+    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="180px" height=130px/></td>
+  </tr>
+</table>
+
+## Microsoft Power BI
+
+<table style="width:100%" align="center">
+ <tr>
+  <td style="border: none;">
+    <a href="https://github.com/mm-mazhar/PowerBI-Super-Store-Sales-Analysis" target="_blank">
+      :palm_tree: PowerBI Super Store Sales Analysis
+    </a> 
+  </td>
+  <td style="border: none;">
+    <a href="https://github.com/mm-mazhar/PowerBI-NY-Property-Sales-Analysis" target="_blank">
+      :palm_tree: PowerBI NY Property Sales Analysis
+    </a>
+  </td>
+  <td style="border: none;">
+    <a href="https://github.com/mm-mazhar/PowerBI-Bank-Customers-Churn-Analysis" target="_blank">
+      :palm_tree: PowerBI Bank Customers Churn Analysis
+    </a>
+  </td>
+ </tr>
+</table>
+
+<table style="width:100%" align="center">
+  <tr>
+    <td><a href="https://github.com/mm-mazhar/PowerBI-Super-Store-Sales-Analysis" target="_blank"><img src="https://i.imgur.com/1M4qf94.png" width="300px" height=210px/></td>
+    <td><a href="https://github.com/mm-mazhar/PowerBI-NY-Property-Sales-Analysis" target="_blank"><img src="https://i.imgur.com/JUbjQUk.png" width="300px" height=210px/></td>
+    <td><a href="https://github.com/mm-mazhar/PowerBI-Bank-Customers-Churn-Analysis" target="_blank"><img src="https://i.imgur.com/e84Tnnj.png" width="300px" height=210px/></td>
+  </tr>
+</table>
+
 
 ## GenAI
 
