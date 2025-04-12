@@ -104,6 +104,7 @@ Key Contributions
 - Wrote Python scripts to download climate data from Google Earth Engine.
 - Curated and analysed satellite imagery and tabular data for Milan's Zones 4 and 9.
 - Also created comprehensive Jupyter Notebooks for EDA and data visualisation.
+- Tools used Python, JavaScript, GDAL, Rasterio, GeoPandas etc
 - Spatial joining, interpolation using kriging.
 - Development of unsupervised machine learning model.
 - Streamlit Web App Improvements.
