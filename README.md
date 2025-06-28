@@ -304,7 +304,7 @@ This is simple example of twitter API implementation to extract on going twitter
 
 ## GenAI
 
-* [RAG | WEBSITE CRAWLER](https://github.com/mm-mazhar/RAG_Crawler_App) Streamlit-based application that enables you to ask questions about documents and receive answers based on the content of those documents. It uses a Retrieval-Augmented Generation (RAG) pipeline to find relevant information within the document and generate accurate, context-aware responses.
+* [Hybrid RAG | WEBSITE CRAWLER](https://github.com/mm-mazhar/hybrid_rag) Streamlit-based application that enables you to ask questions about documents and receive answers based on the content of those documents. It uses a Hybrid Retrieval-Augmented Generation (RAG) approach to find relevant information within the document and generate accurate, context-aware responses.
 
 <table style="width:100%" align="center">
  <tr>
