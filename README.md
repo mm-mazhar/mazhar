@@ -1,4 +1,4 @@
-<h1 style="color:blue;"align="center">M. Mazhar<h6><i>AI/Machine Learning Engineer<i><h6></h1>
+<h1 style="color:blue;"align="center">M. Mazhar<h3><i>AI/Machine Learning Engineer<i><h3></h1>
 
 - 🌱 I’m currently also learning **Cloud Computing Amazon SageMaker**
 
