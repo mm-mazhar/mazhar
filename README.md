@@ -9,7 +9,7 @@
 <!-- <a href="https://twitter.com/m_mazhar_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazqoty01" width="30" height="30" /></a> -->
 <a href="https://www.linkedin.com/in/m-mazhar-121133269/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" alt="mazhar01" width="30" height="30" /></a>
 <!--  <br> -->
-<a href="mailto:email.mazhar.01@gmail.com" target="blank" width="60" height="60">email @</a>
+<a href="mailto:email.mazhar.01@gmail.com" target="blank" width="60" height="60">@</a>
 <!--  <br> -->
 <a href="https://mm-mazhar.github.io/mmazhar.github.io/" target="blank" width="60" height="60">Portfolio</a>
 </p>
