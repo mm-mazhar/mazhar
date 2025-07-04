@@ -8,7 +8,8 @@
 <p align="left">
 <a href="https://twitter.com/m_mazhar_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazqoty01" width="30" height="30" /></a>
 <a href="https://kaggle.com/mazhar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mazhar01" width="30" height="30" /></a>
- <a href="mailto:email.mazhar.01@gmail.com" target="blank" width="60" height="60">email @</a>
+<a href="mailto:email.mazhar.01@gmail.com" target="blank" width="60" height="60">email @</a>
+<a href="[mailto:email.mazhar.01@gmail.com](https://mm-mazhar.github.io/mmazhar.github.io/)" target="blank" width="60" height="60">Portfolio</a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
