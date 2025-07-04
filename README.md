@@ -17,11 +17,11 @@
 
 <hr>
 
-### AI Engineering | Machine Learning | Deep Learning | Data Science 
+### AI | Machine Learning | Deep Learning | Data Science 
 
 <hr>
 
-## AI Engineering
+## AI
 
 * [Hybrid RAG | WEBSITE CRAWLER](https://github.com/mm-mazhar/hybrid_rag) Streamlit-based application that enables you to ask questions about documents and receive answers based on the content of those documents. It uses a Hybrid Retrieval-Augmented Generation (RAG) approach to find relevant information within the document and generate accurate, context-aware responses.
 
