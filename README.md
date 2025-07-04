@@ -17,9 +17,35 @@
 
 <hr>
 
-### Machine Learning | Deep Learning | Data Science | GenAI
+### GenAI | Machine Learning | Deep Learning | Data Science 
 
 <hr>
+
+## GenAI
+
+* [Hybrid RAG | WEBSITE CRAWLER](https://github.com/mm-mazhar/hybrid_rag) Streamlit-based application that enables you to ask questions about documents and receive answers based on the content of those documents. It uses a Hybrid Retrieval-Augmented Generation (RAG) approach to find relevant information within the document and generate accurate, context-aware responses.
+
+<table style="width:100%" align="center">
+ <tr>
+   <td><img src="https://i.imgur.com/VHbFx6C.png" width="300px" height=100px/></td>
+ </tr>
+</table>
+
+* [Text to Speech](https://github.com/mm-mazhar/text_to_speech/tree/main) The Text to Speech (TTS) project is a Python-based application that converts text data from an Excel file into speech audio files. The system uses a pre-trained TTS model, providing users with the ability to customize various parameters, such as the selected TTS model, encoder configuration, and speaker information. The system integrates with the [Coqui TTS](https://github.com/coqui-ai/TTS) library, allowing users to leverage various TTS models for speech synthesis.
+
+<table style="width:100%" align="center">
+ <tr>
+   <td><img src="https://i.imgur.com/Ku7jCo0.jpg" width="300px" height=100px/></td>
+ </tr>
+</table>
+
+* [Abstract Summarizer](https://github.com/mm-mazhar/abstract_summarizer) The Abstract Summarizer project utilizes the power of the google/pegasus-xsum model from the Hugging Face Transformers library to provide an easy-to-use interface for summarizing text. This Streamlit app allows users to input text and receive concise summaries based on various parameters. Model tries to use new words during summarization process.
+
+<table style="width:100%" align="center">
+ <tr>
+   <td><img src="https://i.imgur.com/LgafbBh.jpg" width="300px" height=100px/></td>
+ </tr>
+</table>
 
 ## Machine Learning
 
@@ -301,33 +327,6 @@ This is simple example of twitter API implementation to extract on going twitter
   </tr>
 </table>
 
-
-## GenAI
-
-* [Hybrid RAG | WEBSITE CRAWLER](https://github.com/mm-mazhar/hybrid_rag) Streamlit-based application that enables you to ask questions about documents and receive answers based on the content of those documents. It uses a Hybrid Retrieval-Augmented Generation (RAG) approach to find relevant information within the document and generate accurate, context-aware responses.
-
-<table style="width:100%" align="center">
- <tr>
-   <td><img src="https://i.imgur.com/VHbFx6C.png" width="300px" height=100px/></td>
- </tr>
-</table>
-
-* [Text to Speech](https://github.com/mm-mazhar/text_to_speech/tree/main) The Text to Speech (TTS) project is a Python-based application that converts text data from an Excel file into speech audio files. The system uses a pre-trained TTS model, providing users with the ability to customize various parameters, such as the selected TTS model, encoder configuration, and speaker information. The system integrates with the [Coqui TTS](https://github.com/coqui-ai/TTS) library, allowing users to leverage various TTS models for speech synthesis.
-
-<table style="width:100%" align="center">
- <tr>
-   <td><img src="https://i.imgur.com/Ku7jCo0.jpg" width="300px" height=100px/></td>
- </tr>
-</table>
-
-* [Abstract Summarizer](https://github.com/mm-mazhar/abstract_summarizer) The Abstract Summarizer project utilizes the power of the google/pegasus-xsum model from the Hugging Face Transformers library to provide an easy-to-use interface for summarizing text. This Streamlit app allows users to input text and receive concise summaries based on various parameters. Model tries to use new words during summarization process.
-
-<table style="width:100%" align="center">
- <tr>
-   <td><img src="https://i.imgur.com/LgafbBh.jpg" width="300px" height=100px/></td>
- </tr>
-</table>
- 
 ## :palm_tree: Natural Language Processing
 
 * [Sentiment Analyzer](https://github.com/mazqoty/sentiment_Analyzer) This small program access the sentiments in the given sentences.
